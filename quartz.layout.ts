@@ -6,21 +6,19 @@ export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
   afterBody: [
-    afterBody: [
-      Component.Comments({
-        provider: 'giscus',
-        options: {
-          // from data-repo
-          repo: 'thorri-lindal/thorri-lindal.github.io',
-          // from data-repo-id
-          repoId: 'R_kgDON0eX8Q',
-          // from data-category
-          category: 'Announcements',
-          // from data-category-id
-          categoryId: 'DIC_kwDON0eX8c4Cmqyq',
-        }
-      }),
-    ],
+    Component.Comments({
+      provider: 'giscus',
+      options: {
+        // from data-repo
+        repo: 'thorri-lindal/thorri-lindal.github.io',
+        // from data-repo-id
+        repoId: 'R_kgDON0eX8Q',
+        // from data-category
+        category: 'Announcements',
+        // from data-category-id
+        categoryId: 'DIC_kwDON0eX8c4Cmqyq',
+      }
+    }),
   ],
   footer: Component.Footer({
     links: {
