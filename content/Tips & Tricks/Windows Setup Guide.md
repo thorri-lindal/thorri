@@ -10,13 +10,10 @@
 
 > [!NOTE] Chris Titus Windows10/11 Debloat tool
 > IMO the best debloat tool around
+> ```bash
+> i wr -useb https://christitus.com/win | iex
 >```
-iwr -useb https://christitus.com/win | iex
->```
-
 
 > [!NOTE] AtlasOS 
 > If you want a complete windows OS debloat
 > https://atlasos.net/
-
-NOTE
