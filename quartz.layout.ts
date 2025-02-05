@@ -1,4 +1,4 @@
-import { PageLayout, SharedLayout } from "./quartz/cfg"
+import { PageLayout, SharedLayout } from "./quartz/cfg.ts"
 import * as Component from "./quartz/components"
 
 const EmptyComponent = () => ({ css: "" });
