@@ -17,9 +17,11 @@ Bateman *embodies* hugmyndina á bakvið hið *'klofna viðfangsefni'* (e. *spli
 
 Þráhyggja hans fyrir vörumerkjum og félagslegri stöðu sinni gefur til kynna visst flækjustig hans á sviði hins *'ímyndaða'*, stigi birtingarmyndar hans og (*outward*) útlits. Þessi þráhyggjukennda ástríða hans endurspeglar *fetishism* á vörum í kapítalísku samfélagi, sem leiðir til þess sem Slavoj Žižek kallar oft *'Kapítalískt raunsæi'* (e. *Capitalist realism*), þar sem enginn annar valkostur á sér stað en sá að búa í og taka þátt í kapítalísku samfélagi. 
 
+Til gamans má geta að í bíómyndinni líkt og bókinni getur enginn af samstarfsmönnum hans munað hans raunverulega nafn, það er einfaldlega vegna þess að hið raunverulega nafn mannsins skiptir minna máli en til að mynda nafnið á Brioni jakkafötunum sem maðurinn gengur um í.
+
 ## **Geðrof sem táknræn gagnrýni á kapítalisma**
 Þegar öllu er á botninn hvolft táknar *American Psycho* dæmi um gagnrýni Slavoj Žižek á kapítalisma, hið *'óþekkta þekkta'* (e. *unknown knowns*) sem stjórnar raunveruleika okkar: 
 
 > *Við vitum að leitin að efnislegum auð leiðir ekki til raunverulegrar hamingju, samt höldum við öll áfram að taka þátt í henni.*
 
-Geðrofsástönd Batemans er ekki annað en birtingarmynd þessa erfiðu og gröfnu sannleika sem brjótast í gegnum hreina, fínpússaða og auðvelda veruleika okkar. Hann stendur hátt og áberandi sem gagnrýnandi afl á samfélag sem elur af sér svo óskaplegar langanir sem okkar, en er samt óvitandi um hlutverk sitt í því kapitalíska samfélagi sem hann býr.
+Geðrofsástönd Batemans er ekki annað en birtingarmynd þessa erfiðu og gröfnu sannleika sem brjótast í gegnum hreina, fínpússaða og auðskiljanlega veruleika okkar. Hann stendur hátt og áberandi sem gagnrýnandi afl á samfélag sem elur af sér svo óskaplegar *langanir* og *þrár* sem okkar, en er samt óvitandi um hlutverk sitt í því kapitalíska samfélagi sem hann býr.
