@@ -13,3 +13,6 @@ title: Welcome to my website
   <li>💞️ I’m looking to collaborate on Electrical design, Sound equipment design, and Python projects</li>
   <li>📫 How to reach me: <a href="https://socialmedia.com/thorrilindal">@thorrilindal</a> on most platforms</li>
 </ul>
+
+
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4062170" style='border:none;'></iframe>
