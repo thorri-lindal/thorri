@@ -20,4 +20,4 @@ tags:
 
 > [!NOTE] AtlasOS 
 > If you want a complete windows OS debloat
-> https://atlasos.net/
+> [https://atlasos.net/](AtlasOS)
