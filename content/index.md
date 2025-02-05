@@ -7,15 +7,18 @@ title: Welcome to my website
 </div>
 <br>
 <p>👋 Hi, I’m <strong>Þorri Líndal Guðnason</strong></p>
+
+---
+<br>
+<img src="https://tryhackme-badges.s3.amazonaws.com/tannkrem1.png" alt="Your Image Badge" />
+<br>
+
+---
+
+<br>
 <ul>
   <li>👀 I’m interested in Art coding, Blender, Filmmaking, and Electrical design</li>
   <li>🌱 I’m currently learning Python & JS</li>
   <li>💞️ I’m looking to collaborate on Electrical design, Sound equipment design, and Python projects</li>
   <li>📫 How to reach me: <a href="https://socialmedia.com/thorrilindal">@thorrilindal</a> on most platforms</li>
 </ul>
-
-<div style="max-width: 500px; width: 100%; overflow: hidden; text-align: center; margin: auto;">
-  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4062170"
-          style="border: none; width: 100%; height: auto; max-width: 100%; background: transparent; filter: invert(0);">
-  </iframe>
-</div>
