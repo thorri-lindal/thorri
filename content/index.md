@@ -14,5 +14,6 @@ title: Welcome to my website
   <li>📫 How to reach me: <a href="https://socialmedia.com/thorrilindal">@thorrilindal</a> on most platforms</li>
 </ul>
 
-
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4062170" style='border:none;'></iframe>
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4062170" 
+        style="border: none; width: 100%; height: 300px; overflow: hidden; display: block;">
+</iframe>
