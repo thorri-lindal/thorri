@@ -28,6 +28,13 @@
 - `proxychains-ng` – Route network traffic through a proxy
 - `mutt` – Terminal-based email client
 - `newsboat` – RSS feed reader in the terminal
+-  `Lynx` 
+- `Aria2c`
+- `nmap`
+- `rtv`
+- `ddgr`
+- `speedtest-cli`
+- 
 
 ---
 
@@ -101,6 +108,29 @@
 - `atuin` – Better shell history with search
 - `zoxide` – Smart `cd` command replacement
 - `starship` – Fancy, fast shell prompt
+- `appcleaner`
+- `the-unarchiver`
+- `coconutbattery`
+- `barrier`
+- `dark-mode`
+- `thefuck`
+- `watch`
+- `ccrypt`
+- `geoip`
+- `exa`
+- `uv`
+- `fortune`
+- `fx`
+- `bat`
+- `p7zip`
+- `iterm`
+- `fzf`
+- `jq`
+- `rename`
+- `tre`
+- `git`
+- `bpytop`
+- ag
 
 ---
 
