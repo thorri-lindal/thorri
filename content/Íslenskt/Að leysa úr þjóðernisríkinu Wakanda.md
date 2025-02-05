@@ -31,9 +31,6 @@ Arfgengt konungsveldi Wakanda setur fram á sjónarsviðið ranghala leiðtoga �
 
 Að lokum fer 'Black Panther' yfir ofurhetjuuppruna sína og verður öflugur hvati fyrir umræður um einingu, framsetningu og mikilvægi þess að faðma sameiginlega mannkynið okkar á meðan við fagnum fjölbreyttum menningarlegum bakgrunni okkar. Þegar við tileinkum okkur lærdóminn sem þetta kvikmyndalega meistaraverk býður upp á, erum við minnt á að sannar framfarir felast í sameiginlegri hæfni okkar til að læra hvert af öðru og byggja upp heiminn án aðgreiningar fyrir alla. Wakanda að eilífu!
 
-> [!NOTE] Frá höfundi
-> Þetta pistill er skrifaður hvorki sem lof eða gagnrýni á þjóðernisríkjum, heldur einfaldlega könnun á birtingamynd þess í þessari tilteknu bíómynd. Lifi kaldhæðnin!
-
 ## Footnotes
 
 [^1]: Þjóðernisríki er pólitísk eining (e. entity) þar sem ríkið er nátengt ákveðnum þjóðernishópi, oft forgangsraðar menningarlegri einsleitni og þjóðerniskennd fram yfir fjölmenningu.
@@ -45,9 +42,12 @@ Að lokum fer 'Black Panther' yfir ofurhetjuuppruna sína og verður öflugur hv
 ## Frekari lesning
 
 - Coates, Ta-Nehisi. *Black Panther: A Nation Under Our Feet.* Marvel, 2016.
+
 - Appiah, Kwame Anthony. *The Lies That Bind: Rethinking Identity.* Liveright, 2018.
-- Fanon, Frantz. *The Wretched of the Earth.* Grove Press, 1963.
-- Mbembe, Achille. *On the Postcolony.* University of California Press, 2001.
+
+- Fanon, Frantz. *The Wretched of the Earth.* Grove Press, 1963. Mbembe, Achille. *On the Postcolony.* University of California Press, 2001.
+
 - Lebron, Christopher. "Black Panther Is Not the Movie We Deserve." _Boston Review_, February 17, 2018.
 - Gathara, Patrick. "Black Panther offers a regressive, neocolonial vision of Africa." _The Washington Post_, February 18, 2018.
+-
 - Wilt, James. "Why 'Black Panther' Is Not The Movie We Deserve." _Canadian Dimension_, February 22, 2018.
