@@ -1,11 +1,8 @@
-
----
-#markdown #writing 
 ## Basic Formatting
 
 ### Headings
 
-```md
+```
 # H1
 ## H2
 ### H3
