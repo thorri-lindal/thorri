@@ -23,7 +23,7 @@ export const sharedPageComponents: SharedLayout = {
       }
     }),
   ],
-  footer: EmptyComponent(),
+  footer: () => ({ css: "" }),
 }
 
 // components for pages that display a single page (e.g. a single note)
