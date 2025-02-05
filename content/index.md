@@ -14,8 +14,8 @@ title: Welcome to my website
   <li>📫 How to reach me: <a href="https://socialmedia.com/thorrilindal">@thorrilindal</a> on most platforms</li>
 </ul>
 
-<div style="max-width: 600px; width: 100%; overflow: hidden; text-align: center; margin: auto;">
+<div style="max-width: 500px; width: 100%; overflow: hidden; text-align: center; margin: auto;">
   <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4062170"
-          style="border: none; width: 100%; height: 300px; max-width: 100%; transform: scale(0.85); transform-origin: top left; background-color: transparent;">
+          style="border: none; width: 100%; height: auto; max-width: 100%; background: transparent; filter: invert(0);">
   </iframe>
 </div>
