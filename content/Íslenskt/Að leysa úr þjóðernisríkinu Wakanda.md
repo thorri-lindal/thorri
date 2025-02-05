@@ -1,3 +1,6 @@
+![[wakanda.png]]
+
+
 Velkominn aftur til ríki Wakanda, glimrandi falleg og töfrandi áfrísk þjóð sem heillaði áhorfendur um allan heim í stórmynd Marvel Studios 'Black Panther'. 
 
 Undir glæsilega ofurhetju skelinni liggur umhugsunarverð rannsókn eða könnun á þjóðernisríkis þemum sem finnast í kvikmyndinni; sem gefur okkur skemmtilegt og áhugavert tækifæri til þess að kafa ofan í flókin málefni menningarverndar, landamæra og sjálfsmynd ríkja. 
