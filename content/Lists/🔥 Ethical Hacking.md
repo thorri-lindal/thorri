@@ -20,7 +20,18 @@
 - [Threat Intelligence - AlienVault OTX](https://otx.alienvault.com/)
 - [Troy Hunt’s Blog - Security Insights](https://www.troyhunt.com/)
 - PrivacyTools - Online Privacy Protection
-
+- https://anonymousplanet.org/guide.html
+- https://ssd.eff.org
+- https://ffprofile.com
+- https://ryf.fsf.org/products
+- https://github.com/gorhill/uBlock/wiki/
+- https://haveibeenpwned.com
+- https://inteltechniques.com/workbook.html
+- https://sizeof.cat/links
+- https://stallman.org/facebook.html
+- https://chromium.woolyss.com
+### ### Frontends
+- https://wiki.installgentoo.com/wiki/Privacy_friendly_frontends
 ---
 
 ## 🛠 GitHub Repositories
@@ -129,7 +140,6 @@
 - **[Paul’s Security Weekly](https://securityweekly.com/)**
 
 ---
-
 ## 🛠 Tools
 
 ### 🔹 Intrusion Detection & Prevention
@@ -172,4 +182,21 @@
 - [Nikto - Web Vulnerability Scanner](https://cirt.net/nikto2)
 - [XSStrike - XSS Scanner](https://github.com/s0md3v/XSStrike)
 
+### 🔹Browser tests
+
+- https://www.deviceinfo.me
+- https://dnsleaktest.com
+- https://librespeed.org
+- https://privacytests.org
+- https://time.gov
+
+### 🔹DNS resolvers
+- https://adguard-dns.io/en/welcome.html
+- https://nextdns.io
+- https://www.quad9.net
 ---
+
+## 🖥️Hardware
+### 🤝Firmware
+- https://coreboot.org
+- https://libreboot.org
