@@ -16,6 +16,7 @@ export default ((opts?: Options) => {
           {i18n(cfg.locale).components.footer.createdWith}{" "}
           <a href="https://www.leit.is">Quartz</a> © {year}
         </p>
+        <p>© {year} Þorri Líndal Guðnason</p> {/* Added your name and year */}
         <ul>
           {Object.entries(links).map(([text, link]) => (
             <li>
