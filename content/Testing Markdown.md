@@ -11,7 +11,3 @@
 > [!example] Execution
 > ./sourcing.sh
 > python3 sourcing.py --help
-
-Hallmar er sætur
-Hallmar er bestur
-Hallmar er gangster
