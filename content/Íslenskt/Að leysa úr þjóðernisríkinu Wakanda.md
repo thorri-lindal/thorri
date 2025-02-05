@@ -7,7 +7,7 @@ Velkomin til ríki Wakanda, glimrandi falleg og töfrandi Afrísk þjóð sem he
 
 > Wakanda er skálduð þjóð í afríku, undur ofan öllum undrum. Gífurlegur auður þess og tækniframfarir ná lengra en allt fólkið á rannsóknarstofum MIT gæti dreymt um. Uppspretta allrar þessar undrunnar er Víbranium, efni sem er kraftaverkum líkast á þann hátt sem myndin nennir ekki að útskýra. En svo lengi sem að við skiljum að þetta er öflugur orkugjafi sem og óviðjafnlegt hráefni. Loftsteinn ríkur af Víbrani hrapaði fyrir löngu síðan inn í landið sem myndi verða Wakanda, sem gerði landið svo öflugt að skelfilegar nýlendustefnur og heimsvaldastefnur sögunnar fóru framhjá því. Með því að nota tækni til að fela gæfu sína, gegnir landið hlutverki fátækrar, þriðja heims Afríkuþjóðar. Í raun og veru þrífst hún, og einangrunarstefna hennar ver hana frá kynþáttarfordómum gegn svörtum. Wakandabúar skilja atburði umheimins og vita að þeim er hlíft. Þessi sigursælu söguskrif - víbraníum og leynileg saga um yfirburði Wakandabúa - er ekkert meira en hugmyndafræðilegur gluggi fyrir okkur til að kíkja inn um. Þeir sem fara að kjarna þeirrar röngu skynjunar að 'Black Panther' sé kvikymnd um frelsun svartra.
 
-* ***Christopher Lebron, prófessor við heimspeki við Johns Hopkins, skrifar.  The Making Of Black Lives Matter: A Brief History of an Idea
+ **Christopher Lebron, prófessor við heimspeki við Johns Hopkins, skrifar.  The Making Of Black Lives Matter: A Brief History of an Idea**
 
 ---
 ### Wakanda sem þjóðernisríki
@@ -23,13 +23,14 @@ Wakanda stendur sem fullkominn holdgervingur þjóðernisríkis (e. ethno-state)
 
 Einn áhrifamesti þátturinn í „Black Panther“ er lýsing þess á blómlegu/blómstrandi, sameinuðu svörtu samfélagi. Kvikmyndin fagnar svartri menningu, sjálfsmynd/einkenni/auðkenni og sögu sem styrkir og hvetur áhorfendur um allan heim, sérstaklega áhorfendur jaðarsettra samfélaga. Þessi áhersla á kynþáttastolt vekur upp spurningar um að kanna jafnvægið milli þess að fagna arfleifð og aðhyllast fjölbreytileika. Getur þjóð verið stolt af arfleifð sinni án þess að gera lítið úr virði og framlagi annarra?
 
-Arfgengt konungsveldi Wakanda setur fram á sjónarsviðið ranghala leiðtoga í þjóðernisríki. Möttull Svarta pardussins fer frá einum höfðingja til annars og leggur áherslu á samfellu í menningararfleifð þjóðarinnar. Hins vegar vekur þetta kerfi einnig spurningar um framsetningu og innifalið. Á forysta eingöngu að vera bundin við einstaklinga með sameiginlegan þjóðernisuppruna eða ætti hún að vera opin öllum sem sýna sig geta?
+### Kóngurinn
+Arfgengt konungsveldi Wakanda setur fram á sjónarsviðið ranghala leiðtoga í þjóðernisríki. Möttull Svarta pardussins fer frá einum höfðingja til annars og leggur áherslu á samfellu í menningararfleifð þjóðarinnar. Hins vegar vekur þetta kerfi einnig spurningar um framsetningu og innifalið. Á forysta eingöngu að vera bundin við einstaklinga með sameiginlegan þjóðernisuppruna eða ætti hún að vera opin öllum sem sýna sig geta? 
 
-Þegar við ferðumst um heillandi heim 'Black Panther', finnum við okkur sjálf að glíma við fjölda áleitinna spurninga. Kvikmyndin fléttar saman frábæra þætti ofurhetjutegundarinnar á meistaralegan hátt með djúpstæð þemu um þjóðernisríki, menningarvernd og sjálfsmynd.
+Eitt furðulegasta atriðið í myndinni er einmitt þegar M'Baku konungur Jabari ættbálksins skorar hetjuna okkar T'Challa á hólm. (!)
 
-Þó „Black Panther“ veiti nýtt sjónarhorn á hugtakið þjóðernisríki, er mikilvægt að muna að það er skálduð sköpun. Engu að síður hvetur það okkur til að taka þátt í gagnrýnum samræðum um margbreytileika og blæbrigði í kringum þjóðernishyggju, landamæri og menningararfleifð.
+Þegar við ferðumst um heillandi heim 'Black Panther', finnum við okkur sjálf að glíma við fjölda áleitinna spurninga. Kvikmyndin fléttir saman frábæra þætti ofurhetju kvikmynda á meistaralegan hátt með djúpstæð þemu um þjóðernisríki, menningarvernd og sjálfsmynd, hvort sem það var ætlun þeirra eða ekki.
 
-Að lokum fer 'Black Panther' yfir ofurhetjuuppruna sína og verður öflugur hvati fyrir umræður um einingu, framsetningu og mikilvægi þess að faðma sameiginlega mannkynið okkar á meðan við fagnum fjölbreyttum menningarlegum bakgrunni okkar. Þegar við tileinkum okkur lærdóminn sem þetta kvikmyndalega meistaraverk býður upp á, erum við minnt á að sannar framfarir felast í sameiginlegri hæfni okkar til að læra hvert af öðru og byggja upp heiminn án aðgreiningar fyrir alla. Wakanda að eilífu!
+„Black Panther“ veitir nýtt sjónarhorn á hugmyndina um þjóðernisríki, en mikilvægt er að muna að það er skálduð saga. Engu að síður hvetur það okkur til að taka þátt í gagnrýnum samræðum um margbreytileika og blæbrigði í kringum þjóðernishyggju, landamæri og menningararfleifð.
 
 ## Footnotes
 
