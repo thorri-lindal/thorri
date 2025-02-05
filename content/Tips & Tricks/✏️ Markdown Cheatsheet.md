@@ -331,6 +331,23 @@ _Italic_ → Single asterisk
 
 ==Highlight== → Double equals **Bold** → Double asterisks _Italic_ → Single asterisk [[example|Custom Link Text]] → Custom link text
 
+### YAML Frontmatter
+
+```
+---
+tags: 
+  - project
+  - work
+  - notes
+---
+
+```
+
+```
+---
+tags: [project, work, notes]
+---
+```
 ### Math Notation (MathJax)
 
 ```md

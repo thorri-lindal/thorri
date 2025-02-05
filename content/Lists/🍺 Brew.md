@@ -1,3 +1,7 @@
+---
+tags: [List, CLI, tools, Awesome]
+---
+
 ### **📂 File & Directory Management**
 
 - `dust` – Better `du`, shows disk usage with intuitive visualization

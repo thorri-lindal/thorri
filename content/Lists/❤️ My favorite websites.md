@@ -1,5 +1,3 @@
-## ✨ Beautiful Bookmarks
-
 ### 🎨 Design & Aesthetics
 
 - [The Useless AI](https://adawg4.github.io/uselessai/) – A playful AI-generated art website

@@ -4,3 +4,4 @@
 > 2. Upload it to ChatGPT
 > 3. Prompt it to sort it into folders for you
 > 4. Voila!
+
