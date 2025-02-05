@@ -1,5 +1,9 @@
-#windows #tip #bash
-
+---
+tags:
+  - windows
+  - tips
+  - tools
+---
 > [!error] Massgrave.dev Windows Activation
 > This *is* illegal
 > https://massgrave.dev/
