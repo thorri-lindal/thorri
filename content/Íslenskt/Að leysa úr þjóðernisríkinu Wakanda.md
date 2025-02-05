@@ -1,0 +1,5 @@
+Velkominn aftur til ríki Wakanda, glimrandi falleg og töfrandi áfrísk þjóð sem heillaði áhorfendur um allan heim í stórmynd Marvel Studios 'Black Panther'. 
+
+Undir glæsilega ofurhetju skelinni liggur umhugsunarverð rannsókn eða könnun á þjóðernisríkis þemum sem finnast í kvikmyndinni; sem gefur okkur skemmtilegt og áhugavert tækifæri til þess að kafa ofan í flókin málefni menningarverndar, landamæra og sjálfsmynd ríkja. 
+
+Wakanda stendur sem fullkominn holdgervingur þjóðernisríkis (e. ethno-state), melmegandi og afskekktrar þjóðar sem samvkæmt öllu eru staðsett en vel falinn á meginlandi Afríku. Kvikyndin sýnir okkur að Wakandabúar eru aðallega samfélag svarts fólks, sameinað af sameiginlegri arfleið þeirra og hefðum. Með 'Víbraníum' sem dýrmæta auðlind hafa þeir dafnað í algerri einangrun frá umheiminum, lausir við fjötra landnáms og áhrif erlendra þjóða. Þessi útópíska lýsing vekur okkur til umhugsunar um afleiðingar slíkrar einagrunarhyggju og einkaréttar.
