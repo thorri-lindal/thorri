@@ -34,6 +34,18 @@ tags: [List, Hacking, tools, Awesome]
 - https://sizeof.cat/links
 - https://stallman.org/facebook.html
 - https://chromium.woolyss.com
+- [ifconfig.co](https://ifconfig.co/)
+- [scammer.info](https://scammer.info/)
+- [any.run](https://any.run/)
+- [tria.ge](https://tria.ge/240216-xvxbwafb54)
+- [popupdb.org/generator](https://popupdb.org/generator/)
+- [neepscambaiting.com/finding-scammer-numbers](https://neepscambaiting.com/finding-scammer-numbers/)
+- [censys.com](https://censys.com/)
+- [ransomch.at](https://ransomch.at/)
+- [ransomware.live](https://www.ransomware.live/)
+- [flare.io](https://flare.io/)
+- [gchq.github.io/CyberChef](https://gchq.github.io/CyberChef/)
+
 ### ### Frontends
 - https://wiki.installgentoo.com/wiki/Privacy_friendly_frontends
 ---
@@ -53,13 +65,21 @@ tags: [List, Hacking, tools, Awesome]
 - [Awesome Security](https://github.com/sbilly/awesome-security) – A curated list of security tools and resources.  
 - [OWASP ZAP](https://github.com/zaproxy/zaproxy) – The official repository of the OWASP ZAP security scanner.  
 - [Nikto](https://github.com/sullo/nikto) – A web server vulnerability scanner.  
+- [PopupDB-Data](https://github.com/choozn/PopupDB-Data) – A collection of data for generating fake popups and scam baiting.
+- [awesome-censys-queries](https://github.com/thehappydinoa/awesome-censys-queries) – A curated list of useful queries for searching Censys data.
+- [awesome-search-queries](https://github.com/projectdiscovery/awesome-search-queries) – A list of powerful search queries for various search engines and tools.
 
 ---
 
 ## 📖 Blogs
 
 - [TCM Security Blog](https://tcm-sec.com/blog/)
-
+- [Ethical Hacking Blog](https://www.ethicalhackingblog.com/) – Offers tutorials and guides on ethical hacking techniques and tools.
+- [EC-Council's Ethical Hacking Blog](https://www.eccouncil.org/cybersecurity-exchange/ethical-hacking/) – Provides articles on ethical hacking methodologies and career advice.
+- [Ethiack Blog](https://ethiack.com/blog) – Features insights into cybersecurity trends, tools, and company updates.
+- [Global Institute of Cyber Security & Ethical Hacking Blog](https://gicseh.com/blog.php) – Discusses cybersecurity news, ethical hacking, and career guidance.
+- [Medium's Ethical Hacking Articles](https://medium.com/tag/ethical-hacking) – A collection of write-ups from hackers on various ethical hacking topics.
+- [Orange Cyberdefense's Ethical Hacking Blog](https://www.orangecyberdefense.com/global/blog/ethical-hacking) – Offers insights into ethical hacking and its role in organizational security.
 ---
 
 ## 🎥 YouTubers
@@ -89,13 +109,6 @@ tags: [List, Hacking, tools, Awesome]
 - [Google’s Python Class](https://t.co/PJwjNU0Oga)
 - [Machine Learning Basics](https://t.co/N5U053jGOD)
 - [Digital Marketing Course](https://t.co/3W9KrVZZtr)
-
----
-
-## 📑 OTW Dox & Legal Cases
-
-- [WTF OTW DOX](https://drvoip.com/wtf_otw)
-- [OTW Legal Case](https://caselaw.findlaw.com/court/mt-supreme-court/1315050.html)
 
 ---
 
@@ -188,19 +201,33 @@ tags: [List, Hacking, tools, Awesome]
 
 ### 🔹Browser tests
 
-- https://www.deviceinfo.me
-- https://dnsleaktest.com
-- https://librespeed.org
-- https://privacytests.org
-- https://time.gov
+- [Cover Your Tracks](https://coveryourtracks.eff.org/) – Evaluates how well your browser protects you from tracking and fingerprinting.
+- [Am I Unique?](https://amiunique.org/) – Assesses the uniqueness of your browser fingerprint to determine tracking susceptibility.
+- [BrowserLeaks](https://browserleaks.com/) – Offers a suite of tools to check for various privacy leaks in your browser.
+- [Canvas Fingerprinting Test](https://browserleaks.com/canvas) – Detects if your browser is susceptible to canvas fingerprinting.
+- [WebRTC Leak Test](https://browserleaks.com/webrtc) – Checks if your real IP address is exposed through WebRTC.
+- [LibreSpeed](https://librespeed.org/) – Measures your internet connection speed.
+- [PrivacyTests](https://privacytests.org/) – Assesses your browser's privacy settings.
+- [Time.gov](https://time.gov/) – Displays the current time from the U.S. government.
+- [Device Info](https://www.deviceinfo.me/) – Provides detailed information about your device, browser, and IP address.  
+- [DNS Leak Test](https://dnsleaktest.com/) – Checks if your DNS queries are exposed to third parties, which can compromise privacy.  
 
 ### 🔹DNS resolvers
 - https://adguard-dns.io/en/welcome.html
 - https://nextdns.io
 - https://www.quad9.net
+
 ---
 
 ## 🖥️Hardware
 ### 🤝Firmware
 - https://coreboot.org
 - https://libreboot.org
+
+
+# Other
+
+## 📑 OTW Dox & Legal Cases
+
+- [WTF OTW DOX](https://drvoip.com/wtf_otw)
+- [OTW Legal Case](https://caselaw.findlaw.com/court/mt-supreme-court/1315050.html)
