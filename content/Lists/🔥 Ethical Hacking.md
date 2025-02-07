@@ -142,9 +142,31 @@ tags: [List, Hacking, tools, Awesome]
 
 ### Feeds
 
-- [General]({'RSS': 'http://cyber.harvard.edu/rss/rss.html', 'Introduction to Atom': 'https://validator.w3.org/feed/docs/atom.html', 'Atom syndication spec': 'https://tools.ietf.org/html/rfc4287', 'h-feed microformat': 'https://microformats.org/wiki/h-feed', 'JSON': 'https://jsonfeed.org', 'OPML spec': 'http://dev.opml.org/spec2.html', 'twtxt': 'https://github.com/buckket/twtxt'})
-- [Readers]({'Newsboat': 'https://newsboat.org', 'Sfeed': 'https://codemadness.org/sfeed-simple-feed-parser.html', 'Tiny Tiny RSS': 'https://tt-rss.org', 'spaRSS': 'https://github.com/Etuldan/spaRSS', 'selfoss': 'https://selfoss.aditu.de', 'FeedReader': 'https://jangernert.github.io/FeedReader/', 'Aperture': 'https://aperture.p3k.io', 'Monocle': 'https://monocle.p3k.io', 'Thunderbird': 'https://www.thunderbird.net', 'NetNewsWire': 'https://netnewswire.com'})
-- [Generators]({'feedparser': 'https://github.com/rubycocos/feedparser', 'SimplePie': 'https://github.com/simplepie/simplepie/'})
+- **General**
+  - [RSS](http://cyber.harvard.edu/rss/rss.html)
+  - [Introduction to Atom](https://validator.w3.org/feed/docs/atom.html)
+  - [Atom syndication spec](https://tools.ietf.org/html/rfc4287)
+  - [h-feed microformat](https://microformats.org/wiki/h-feed)
+  - [JSON](https://jsonfeed.org)
+  - [OPML spec](http://dev.opml.org/spec2.html)
+  - [twtxt](https://github.com/buckket/twtxt)
+
+- **Readers**
+  - [Newsboat](https://newsboat.org)
+  - [Sfeed](https://codemadness.org/sfeed-simple-feed-parser.html)
+  - [Tiny Tiny RSS](https://tt-rss.org)
+  - [spaRSS](https://github.com/Etuldan/spaRSS)
+  - [selfoss](https://selfoss.aditu.de)
+  - [FeedReader](https://jangernert.github.io/FeedReader/)
+  - [Aperture](https://aperture.p3k.io)
+  - [Monocle](https://monocle.p3k.io)
+  - [Thunderbird](https://www.thunderbird.net)
+  - [NetNewsWire](https://netnewswire.com)
+
+- **Generators**
+  - [feedparser](https://github.com/rubycocos/feedparser)
+  - [SimplePie](https://github.com/simplepie/simplepie/)
+
 
 ### Static site generators
 
