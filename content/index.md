@@ -1,9 +1,8 @@
 ---
-title: Welcome to my website
+title: Þorri is online ⚡
 ---
 
 <head>
-  <title>Thorri is online</title>
   <link rel="icon" type="image/x-icon" href="https://www.pngmart.com/files/23/Dickbutt-PNG-HD.png">
 </head>
 
