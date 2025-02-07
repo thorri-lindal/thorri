@@ -1,8 +1,14 @@
+---
+tags:
+  - Linux
+  - tips
+  - tools
+  - Setup
+---
 A quick and effective setup guide for optimizing Ubuntu/Linux Mint with security, performance, and stability improvements.
 
----
-
-> [!Enable Automatic Updates  ]
+> [!note ]
+> ## Enable Automatic Updates 
 > ```bash
 > sudo apt install unattended-upgrades -y
 > sudo dpkg-reconfigure unattended-upgrades
