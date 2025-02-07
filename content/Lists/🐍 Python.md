@@ -53,10 +53,6 @@
 - **[BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/)** – Extract and parse data from web pages.  
 - **[Selenium](https://www.selenium.dev/)** – Automate your web browser for scraping, testing, or fun.  
 
-# Awesome Python [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-
-An opinionated list of awesome Python frameworks, libraries, software and resources.
-
 - [Awesome Python](#awesome-python)
     - [Admin Panels](#admin-panels)
     - [Algorithms and Design Patterns](#algorithms-and-design-patterns)
