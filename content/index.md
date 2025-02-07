@@ -1,6 +1,7 @@
 ---
 title: Þorri is online ⚡
 ---
+[//]: <> (Þetta var bara gert fyrir þig Hallmar.)
 
 <head>
   <link rel="icon" type="image/x-icon" href="https://www.pngmart.com/files/23/Dickbutt-PNG-HD.png">
