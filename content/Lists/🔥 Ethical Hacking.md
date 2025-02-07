@@ -2,7 +2,7 @@
 tags: [List, Hacking, tools, Awesome]
 ---
 
-## 🌐 Websites
+## 🌐 Websites (unsorted)
 
 - [Pwn Guide](https://pwn.guide/)
 - [Hacksplaining - Cybersecurity Learning](https://hacksplaining.com/)
@@ -24,16 +24,16 @@ tags: [List, Hacking, tools, Awesome]
 - [Threat Intelligence - AlienVault OTX](https://otx.alienvault.com/)
 - [Troy Hunt’s Blog - Security Insights](https://www.troyhunt.com/)
 - PrivacyTools - Online Privacy Protection
-- https://anonymousplanet.org/guide.html
-- https://ssd.eff.org
-- https://ffprofile.com
-- https://ryf.fsf.org/products
-- https://github.com/gorhill/uBlock/wiki/
-- https://haveibeenpwned.com
-- https://inteltechniques.com/workbook.html
-- https://sizeof.cat/links
-- https://stallman.org/facebook.html
-- https://chromium.woolyss.com
+- <https://anonymousplanet.org/guide.html>
+- <https://ssd.eff.org>
+- <https://ffprofile.com>
+- <https://ryf.fsf.org/products>
+- <https://github.com/gorhill/uBlock/wiki/>
+- <https://haveibeenpwned.com>
+- <https://inteltechniques.com/workbook.html>
+- <https://sizeof.cat/links>
+- <https://stallman.org/facebook.html>
+- <https://chromium.woolyss.com>
 - [ifconfig.co](https://ifconfig.co/)
 - [scammer.info](https://scammer.info/)
 - [any.run](https://any.run/)
@@ -46,8 +46,12 @@ tags: [List, Hacking, tools, Awesome]
 - [flare.io](https://flare.io/)
 - [gchq.github.io/CyberChef](https://gchq.github.io/CyberChef/)
 
+Beginners
+
 ### ### Frontends
-- https://wiki.installgentoo.com/wiki/Privacy_friendly_frontends
+
+- <https://wiki.installgentoo.com/wiki/Privacy_friendly_frontends>
+
 ---
 
 ## 🛠 GitHub Repositories
@@ -80,6 +84,7 @@ tags: [List, Hacking, tools, Awesome]
 - [Global Institute of Cyber Security & Ethical Hacking Blog](https://gicseh.com/blog.php) – Discusses cybersecurity news, ethical hacking, and career guidance.
 - [Medium's Ethical Hacking Articles](https://medium.com/tag/ethical-hacking) – A collection of write-ups from hackers on various ethical hacking topics.
 - [Orange Cyberdefense's Ethical Hacking Blog](https://www.orangecyberdefense.com/global/blog/ethical-hacking) – Offers insights into ethical hacking and its role in organizational security.
+
 ---
 
 ## 🎥 YouTubers
@@ -157,7 +162,12 @@ tags: [List, Hacking, tools, Awesome]
 - **[Paul’s Security Weekly](https://securityweekly.com/)**
 
 ---
+
 ## 🛠 Tools
+
+### Online tools
+
+### CLI Tools
 
 ### 🔹 Intrusion Detection & Prevention
 
@@ -213,17 +223,19 @@ tags: [List, Hacking, tools, Awesome]
 - [DNS Leak Test](https://dnsleaktest.com/) – Checks if your DNS queries are exposed to third parties, which can compromise privacy.  
 
 ### 🔹DNS resolvers
-- https://adguard-dns.io/en/welcome.html
-- https://nextdns.io
-- https://www.quad9.net
+
+- <https://adguard-dns.io/en/welcome.html>
+- <https://nextdns.io>
+- <https://www.quad9.net>
 
 ---
 
 ## 🖥️Hardware
-### 🤝Firmware
-- https://coreboot.org
-- https://libreboot.org
 
+### 🤝Firmware
+
+- <https://coreboot.org>
+- <https://libreboot.org>
 
 # Other
 
