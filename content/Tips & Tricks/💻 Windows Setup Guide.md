@@ -3,7 +3,10 @@ tags:
   - windows
   - tips
   - tools
+  - Setup
 ---
+A quick and effective setup guide for optimizing Windows with security, performance, and stability improvements.
+
 > [!error] Massgrave.dev Windows Activation
 > This *is* illegal
 > https://massgrave.dev/
