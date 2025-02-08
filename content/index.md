@@ -1,3 +1,7 @@
+---
+title: Hello
+---
+
 <meta property="og:title" content="Thorri's Website">
 <meta property="og:description" content="He is online.">
 <meta property="og:image" content="https://cdn.jsdelivr.net/gh/thorri-lindal/thorri-lindal.github.io@v4/content/Íslenskt/regina.jpg">
