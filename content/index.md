@@ -22,17 +22,14 @@ title: Þorri is online ⚡
 <br>
 <p>👋 Hi, I’m <strong>Þorri Líndal Guðnason</strong></p>
 
----
-<br>
-<img src="https://tryhackme-badges.s3.amazonaws.com/tannkrem1.png" alt="Your Image Badge" />
-<br>
-
----
-
-<br>
 <ul>
   <li>👀 I’m interested in Art coding, Blender, Filmmaking, and Electrical design</li>
   <li>🌱 I’m currently learning Python & JS</li>
   <li>💞️ I’m looking to collaborate on Electrical design, Sound equipment design, and Python projects</li>
   <li>📫 How to reach me: <a href="https://socialmedia.com/thorrilindal">@thorrilindal</a> on most platforms</li>
 </ul>
+
+---
+<br>
+<img src="https://tryhackme-badges.s3.amazonaws.com/tannkrem1.png" alt="Your Image Badge" />
+<br>
