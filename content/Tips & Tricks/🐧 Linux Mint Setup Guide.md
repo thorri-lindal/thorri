@@ -93,3 +93,26 @@ A quick and effective setup guide for optimizing Ubuntu/Linux Mint with security
 > 
 
 ---
+
+> [!tip]
+> ## 🍺 Install Homebrew
+> ```bash
+> - /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+> ```
+> 
+> ```bash
+> - export PATH=/usr/local/bin:$PATH
+> ```
+> 
+> ```bash
+> - (echo; echo 'eval "$(/usr/local/bin/brew shellenv)"') >> /Users/$USER/.profile
+> ```
+> 
+> ```bash
+> - eval "$(/usr/local/bin/brew shellenv)"
+> ```
+> 
+> ```bash
+> sudo apt-get install build-essential
+> ```
+> 

@@ -5,7 +5,7 @@
 
 Velkomin til ríki Wakanda, glimrandi falleg og töfrandi Afrísk þjóð sem heillaði áhorfendur um allan heim í stórmynd Marvel Studios 'Black Panther'. Undir glæsilegu ofurhetju skelinni liggur umhugsunarverð rannsókn/könnun á þjóðernisríkis þemum(!) sem finnast í kvikmyndinni; sem gefur okkur skemmtilegt og áhugavert tækifæri til þess að kafa ofan í flókin málefni menningarverndar, landamæra og sjálfsmynd ríkja.
 
-> Wakanda er skálduð þjóð í afríku, undur ofan öllum undrum. Gífurlegur auður þess og tækniframfarir ná lengra en allt fólkið á rannsóknarstofum MIT gæti dreymt um. Uppspretta allrar þessar undrunnar er Víbranium, efni sem er kraftaverkum líkast á þann hátt sem myndin nennir ekki að útskýra. En svo lengi sem að við skiljum að þetta er öflugur orkugjafi sem og óviðjafnlegt hráefni. Loftsteinn ríkur af Víbrani hrapaði fyrir löngu síðan inn í landið sem myndi verða Wakanda, sem gerði landið svo öflugt að skelfilegar nýlendustefnur og heimsvaldastefnur sögunnar fóru framhjá því. Með því að nota tækni til að fela gæfu sína, gegnir landið hlutverki fátækrar, þriðja heims Afríkuþjóðar. Í raun og veru þrífst hún, og einangrunarstefna hennar ver hana frá kynþáttarfordómum gegn svörtum. Wakandabúar skilja atburði umheimins og vita að þeim er hlíft. Þessi sigursælu söguskrif - víbraníum og leynileg saga um yfirburði Wakandabúa - er ekkert meira en hugmyndafræðilegur gluggi fyrir okkur til að kíkja inn um. Þeir sem fara að kjarna þeirrar röngu skynjunar að 'Black Panther' sé kvikymnd um frelsun svartra.
+> Wakanda er skálduð þjóð í afríku, undur ofan öllum undrum. Gífurlegur auður þess og tækniframfarir ná lengra en allt fólkið á rannsóknarstofum MIT gæti dreymt um. Uppspretta allrar þessar undrunar er Víbranium, efni sem er kraftaverkum líkast á þann hátt sem myndin nennir ekki að útskýra. En svo lengi sem að við skiljum að þetta er öflugur orkugjafi sem og óviðjafnlegt hráefni. Loftsteinn ríkur af Víbrani hrapaði fyrir löngu síðan inn í landið sem myndi verða Wakanda, sem gerði landið svo öflugt að skelfilegar nýlendustefnu og heimsvaldastefnu sögunnar fóru fram hjá því. Með því að nota tækni til að fela gæfu sína, gegnir landið hlutverki fátækrar, þriðja heims Afríkuþjóðar. Í raun og veru þrífst hún, og einangrunarstefna hennar ver hana frá kynþáttarfordómum gegn svörtum. Wakandabúar skilja atburði umheimsins og vita að þeim er hlíft. Þessi sigursælu söguskrif - víbraníum og leynileg saga um yfirburði Wakandabúa - er ekkert meira en hugmyndafræðilegur gluggi fyrir okkur til að kíkja inn um. Þeir sem fara að kjarna þeirrar röngu skynjunar að 'Black Panther' sé kvikmynd um frelsun svartra.
 
  **Christopher Lebron, prófessor við heimspeki við Johns Hopkins, skrifar.  The Making Of Black Lives Matter: A Brief History of an Idea**
 
@@ -19,7 +19,7 @@ Wakanda stendur sem fullkominn holdgervingur þjóðernisríkis (e. ethno-state)
 
 Í hjarta þjóðernisríkis Wakanda liggur djúpstæð löngun til að varðveita menningarlega sjálfsmynd þess. Myndin sýnir tileinkun Wakandabúa til siða sinna og hefða, með helgisiðum eins og *"áskorunardeginum"* og lotningu mikla fyrir forfeðrum sínum. Þessi varðveisla á lífsháttum þeirra gefur þeim tilfinningu fyrir samheldni og ódeyjandi stolti. Hins vegar vekur það líka umræðu um fínu mörkin milli menningarverndar og menningarlegrar stöðnunar. Getur þjóðernisríki haldið áreiðanleika sínum án þess að þróast til að bregðast við breyttum tímum og hugmyndum?
 
-Órjúfanleg landamæri Wakanda draga hliðstæður við hugmyndir þjóðernisríkja á einkarétt og aðskilnað (e. Exclusivity). Forysta þjóðarinnar kýs að einagra sig frá umheiminum, gæta tækniframfara hennar og auð/auðæfa fyrir utanaðkomandi. Þetta vekur upp áleitnar spurningar um alþjóðlega ábygrð og siðferðislegar afleiðingar þess að halda eftir aðstoð og fjármagni frá þeim sem þurfa á aðstoð að halda.Black Panther hvetur okkut til að íhuga raunverulegan kostnað við að viðhalda landamærum og hvort þau viðhaldi þannig ósjálfrátt ójöfnuði. #Hermit-kingdom 
+Órjúfanleg landamæri Wakanda draga hliðstæður við hugmyndir þjóðernisríkja á einkarétt og aðskilnað (e. Exclusivity). Forysta þjóðarinnar kýs að einangra sig frá umheiminum, gæta tækniframfara hennar og auð/auðæfa fyrir utanaðkomandi. Þetta vekur upp áleitnar spurningar um alþjóðlega ábyrgð og siðferðislegar afleiðingar þess að halda eftir aðstoð og fjármagni frá þeim sem þurfa á aðstoð að halda. Black Panther hvetur okkur til að íhuga raunverulegan kostnað við að viðhalda landamærum og hvort þau viðhaldi þannig ósjálfrátt ójöfnuði.
 
 Einn áhrifamesti þátturinn í „Black Panther“ er lýsing þess á blómlegu/blómstrandi, sameinuðu svörtu samfélagi. Kvikmyndin fagnar svartri menningu, sjálfsmynd/einkenni/auðkenni og sögu sem styrkir og hvetur áhorfendur um allan heim, sérstaklega áhorfendur jaðarsettra samfélaga. Þessi áhersla á kynþáttastolt vekur upp spurningar um að kanna jafnvægið milli þess að fagna arfleifð og aðhyllast fjölbreytileika. Getur þjóð verið stolt af arfleifð sinni án þess að gera lítið úr virði og framlagi annarra?
 
@@ -43,12 +43,8 @@ Eitt furðulegasta atriðið í myndinni er einmitt þegar M'Baku konungur Jabar
 ## Frekari lesning
 
 - Coates, Ta-Nehisi. *Black Panther: A Nation Under Our Feet.* Marvel, 2016.
-
 - Appiah, Kwame Anthony. *The Lies That Bind: Rethinking Identity.* Liveright, 2018.
-
 - Fanon, Frantz. *The Wretched of the Earth.* Grove Press, 1963. Mbembe, Achille. *On the Postcolony.* University of California Press, 2001.
-
 - Lebron, Christopher. "Black Panther Is Not the Movie We Deserve." _Boston Review_, February 17, 2018.
 - Gathara, Patrick. "Black Panther offers a regressive, neocolonial vision of Africa." _The Washington Post_, February 18, 2018.
--
-- Wilt, James. "Why 'Black Panther' Is Not The Movie We Deserve." _Canadian Dimension_, February 22, 2018.
+- Wilt, James. *"Why 'Black Panther' Is Not The Movie We Deserve."* _Canadian Dimension_, February 22, 2018.pardussins
