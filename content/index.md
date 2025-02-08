@@ -1,7 +1,3 @@
----
-title: Þorri is online ⚡
----
-
 <meta property="og:title" content="Thorri's Website">
 <meta property="og:description" content="He is online.">
 <meta property="og:image" content="https://cdn.jsdelivr.net/gh/thorri-lindal/thorri-lindal.github.io@v4/content/Íslenskt/regina.jpg">
@@ -20,6 +16,7 @@ title: Þorri is online ⚡
   <img src="https://yt3.googleusercontent.com/ytc/AIdro_kzMP5kk9ZA24BQKo4eK2ynpgElIML1lKZHLAvjvwJKmNC9=s900-c-k-c0x00ffffff-no-rj" alt="Description" width="350" height="auto" style="margin-right: 10px;">
 </div>
 <br>
+
 <p>👋 Hi, I’m <strong>Þorri Líndal Guðnason</strong></p>
 
 <ul>
