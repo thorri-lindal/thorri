@@ -1,3 +1,5 @@
+![[regina.jpg]]
+
 Kvikmyndin "Mean Girls," eitt af klassísku unglinga gamanmyndunum frá 2004 virðist við fyrstu vera nokkuð stöðluð saga um félagsleg samskipti framhaldsskólafólks í bandaríkjunum. Það er auðvelt að vísa þessu meistaraverki kvikmyndagerðar á bug sem einfaldlega yfirborðskenndri háðsádeilu, mynd sem notar angist æsku, keppnissemi, ríg og plastkennda efnishyggju amerískra unglinga sem farartæki til að færa okkur - skulum segja - skáldlegt léttmeti. Hins vegar, ef við lýtum nær og skoðum betur byrjum við að rífa í sundur þennan 'veneer' og sjáum hvað hún er í raun og veru - djúpstæð og dulbúinn frásögn af stéttabaráttu sem er sögð innan sögusviðs úthverfamenntaskóla. 
 
 í þessari mynd táknar [North Shore](https://meangirls.fandom.com/wiki/North_Shore_High_School) framhaldsskólinn smáheim samfélagsins (e. microcosm) þar sem flokkar/stétt (e. caste) (þeir mikilvægustu nefndir hér fyrir neðan) eru þjóðfélagsstéttirnar í samfélagi okkar. En ekki láta blekkjast að þetta séu stöðugar stéttir né hópar - línurnar á milli þeirra eru fljótandi og óskýrar, valdaójafnvægið mikið og breytilegt.
@@ -33,3 +35,6 @@ Innleiðing (raunar innræting(?) (e. infiltration)) Cady í hóp hinna plastken
 
 Hins vegar, í stað þess að steypa kapítalísku borgarastéttinni af stóli, lætur Cady tælast af illum gripum hennar og endar með því að viðhalda sama kúgandi samfélagsgerðinni/kerfinu sem hún ætlaði sér að taka í sundur. Þetta er það sem Slavoj Zizek kallar 'Ofbeldi kerfisins' jafnvel í okkar öflugustu tilraunum til að raska ríkjandi kerfi* aðlagast það eindaldlega, oft völdugra en áður/fyrir.
 
+---
+### Marxískar þýðingar:
+# **Snailgirl 🐌**
