@@ -1,6 +1,19 @@
 ---
 tags: [List, CLI, tools, Awesome]
 ---
+### Favorites & Must-haves
+
+- Fish terminal
+- imagemagick
+- ddgr
+- tldr
+- ripgrep
+- fzf
+- tree
+- yt-dlp
+- aria2
+- htop | btop
+- uv
 
 ### **📂 File & Directory Management**
 
@@ -37,7 +50,6 @@ tags: [List, CLI, tools, Awesome]
 - `nmap`
 - `rtv`
 - `ddgr`
-- `speedtest-cli`
 - 
 
 ---
@@ -134,7 +146,7 @@ tags: [List, CLI, tools, Awesome]
 - `tre`
 - `git`
 - `bpytop`
-- ag
+- `ag`
 
 ---
 
