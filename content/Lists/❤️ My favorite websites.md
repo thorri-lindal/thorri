@@ -81,3 +81,6 @@
 - [Nature of Code](https://natureofcode.com/) – A creative guide to computational design
 - [Tailwind CSS Color Generator](https://uicolors.app/create/) – Generate Tailwind CSS color palettes
 - [Nobara Linux](https://nobaraproject.org/) – A Linux distribution optimized for gaming
+
+### Articles
+https://www.cyberark.com/resources/threat-research-blog/explain-like-i-m-5-remote-desktop-protocol-rdp

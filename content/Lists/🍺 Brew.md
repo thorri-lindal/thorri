@@ -27,23 +27,24 @@ tags: [List, CLI, tools, Awesome]
 - **mmv** – Bulk rename, move, or copy files with patterns  
 - **rename** – Rename files in bulk using regex  
 - **dtrx** – Extracts any archive without special commands  
+- **eza** – Even better `ls`, supports git integration and better sorting
+- 
 
 ---
 
 ### **🔍 Searching & Navigation**  
 
 - **dog** – Fast DNS lookup tool  
-- **ag** – "The Silver Searcher," fast text searcher  
 - **pt** – "The Platinum Searcher," even faster than `ag`  
 - **lsd** – Enhanced `ls` with icons and colors  
 - **broot** – Interactive tree-like file manager  
+- **fd** – A simpler and faster `find` replacement
 
 ---
 
 ### **🌐 Internet & Networking**  
 
 - **speedtest-cli** – Check internet speed from the terminal  
-- **youtube-dl** – Video downloader (use `yt-dlp` instead)  
 - **yt-dlp** – Fast, feature-rich `youtube-dl` alternative  
 - **tor** – Anonymous browsing via the Tor network  
 - **proxychains-ng** – Route traffic through a proxy  
@@ -52,8 +53,12 @@ tags: [List, CLI, tools, Awesome]
 - **Lynx** – Text-based web browser  
 - **Aria2c** – Command-line download accelerator  
 - **nmap** – Network scanner for security and diagnostics  
-- **rtv** – Reddit client for the terminal  
+- **tuir** – Reddit client for the terminal  
 - **ddgr** – DuckDuckGo CLI search  
+- **gping** – Ping with live graph visualization
+- **doggo** – A `dog` alternative with more interactive DNS querying
+- **ytfzf** – Browse and search YouTube from the terminal
+- **socat** – `netcat` on steroids for networking magic
 
 ---
 
@@ -64,6 +69,7 @@ tags: [List, CLI, tools, Awesome]
 - **unar** – Extract `.zip`, `.rar`, `.7z`, etc.  
 - **pigz** – Multithreaded gzip for faster compression  
 - **pv** – Monitor progress of data transfer  
+- **gron** – JSON flattener, making it greppable
 
 ---
 
@@ -74,6 +80,7 @@ tags: [List, CLI, tools, Awesome]
 - **entr** – Trigger commands on file changes  
 - **timewarrior** – CLI time tracker  
 - **mprocs** – Manage multiple processes in one terminal  
+- **choose** – Select columns from input like `awk` but easier
 
 ---
 
@@ -84,6 +91,8 @@ tags: [List, CLI, tools, Awesome]
 - **nethogs** – Show network usage by process  
 - **iperf** – Network performance testing  
 - **lsof** – List open files used by processes  
+- **procs** – Modern alternative to `ps`, with colors and tree view
+- **bandwhich** – Shows real-time network bandwidth per process
 
 ---
 
@@ -95,6 +104,7 @@ tags: [List, CLI, tools, Awesome]
 - **visidata** – Interactive data analysis tool  
 - **sed** – Stream editor for text manipulation  
 - **awk** – Text processing and data extraction  
+- **pastel** – CLI tool to manipulate colors easily
 
 ---
 
@@ -149,14 +159,11 @@ tags: [List, CLI, tools, Awesome]
 - **tre** – Better `tree` with git-aware navigation  
 - **git** – Version control system  
 - **bpytop** – Resource monitor with a sleek UI  
-- **ag** – "The Silver Searcher" for fast text search  
+- **zellij** – Modern terminal multiplexer, alternative to `tmux`
+- **duf** – Better `df`, disk usage with a clean UI
+- **xclip | wl-copy** – Clipboard integration for X11/Wayland
 
 ---
 
-### **🔌 Containers & Virtualization**  
-
-- **colima** – Lightweight Docker alternative  
-- **minikube** – Run Kubernetes locally  
-- **podman** – Rootless container management  
-
----
+### Rust based
+- SKIM - FZF alternative written in Rust

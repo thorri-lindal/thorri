@@ -32,4 +32,4 @@ Til að summa um, til samantektar virkar 'Jennifers Body' á mörgum mismunandi 
 
 [^1]: **Sukkúbus** er goðsagnavera úr miðaldatrú, kvenkyns djöfull sem tælar og tæmir lífsorku karlmanna í gegnum kynferðisleg samskipti/samráð(?).
 
-[^2]: ég geri mér grein fyrir líkamlega styrkinum sem er innifalinn, þetta er meint í samhengi myndarinnar og menningarheims Ameríku almennt
+[^2]: ég geri mér fullkomnlega grein fyrir líkamlega styrkinum sem er innifalinn, þetta er meint í samhengi myndarinnar!
