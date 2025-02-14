@@ -34,7 +34,7 @@ Hin alræmda 'Brunabók' (Burn Book) hennar Reginu er því ekki bara hin týpí
 ### Cady Heron 
 Cady heron, nýliðinn frá Afríku, endurspeglar barnslegan skilning verkalýðsins á stéttabaráttu/nni. Þegar við kynnumst henni fyrst er hún óhlutdræg og ómeðvituð um hlutverk sitt í stóra samhengi samfélagsins og vill helst - á sinn eigin hátt - lifa utan þess. Þegar tíminn líður á sjáum við Cady hægt og rólega vitundarvakningu hennar á stéttardínamíkinni (e. class dynamics) sem ríkja. 
 
-### **Janis Ian: Lumpenproletariat eða hin ósamræmda andófshreyfing
+### Janis Ian: Lumpenproletariat eða hin ósamræmda andófshreyfing
 
 Ef að Regina George er andlit hinnar kapítalísku yfirstéttar og Cady Heron andlit fölsku meðvitundar verkalýðsins, þá getum við litið á **Janis Ian** sem bylting sem misstekst - einhver sem reynir að kollvarpa ríkjandi kerfi, en endanlega nær því ekki. Þetta er í takt við það sem Marx kallar **Lumpenproletariat** [^1], hina jaðarsettu, oft pólítískt sveiflukennda stéttina sem skortir skýra sýn á möguleikum sína til byltingar. 
 
