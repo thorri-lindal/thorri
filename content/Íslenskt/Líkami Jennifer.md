@@ -5,6 +5,8 @@ tags:
   - skrif
   - WIP
 ---
+![[lillith.png]]
+ *[Lillith](https://gallerythane.com/cdn/shop/files/lilith_remastered-l3_16x8_wm.jpg) eftir John Collier, 1889.*
 ### Inngangur: Hell is a teenage girl
 
 'Jennifer's Body', hryllings-grínmynd frá 2009 leikstýrð af Karyn Kusama og skrifuð af Diablo Cody. Þegar kvikmyndin kom út var hún annaðhvort talin heiladautt „cashgrab“ sem nýtti sér kynþokka Megan Fox til að selja sig (sem er umfjöllunarefni þessarar greinar) eða einfaldlega ágætis grínmynd. Ég hugsaði ekki mikið um hana þegar hún kom út og fannst hún einfaldlega „campy“ hryllingsmynd – en mjög góð engu að síður. Myndin er í dag álitin af mér og líklega fleirum sem hálfgerð sjálfsævisaga Megan Fox og ferils hennar í Hollywood. Myndin þjónar sem háðsádeila á ekki bara kvikmynda- og tónlistariðnaðinum heldur samfélaginu sjálfu. Hún kafar djúpt ofan í hlutgervingu kvenna, kvenfyrirlitningu, og væntingar samfélagsins af konum og að miklu leyti virkar myndin sem spegill á upplifun Fox af því að lifa í sviðsljósinu.
@@ -16,7 +18,8 @@ Við fyrstu mínútur myndarinnar tók ég strax eftir ákveðnum atriðum. Hún
 Frægð Megan Fox einkenndist af kynþokka hennar og líkamlegu aðdráttarafli hennar. Hún var oft minnkuð* niður í kyntákn, leikhæfileikar hennar og persónulegar skoðanir vísað á bug í þágu útlits hennar og í raun speglar saga Jennifer Check örlög Megan Fox sjálfrar. Titill myndarinnar er bókstafleg vísun í hvernig líkami hennar Jennifer er bæði dýrkaður og hataður vegna fegurðar hans.
 
 ---
-
+![[maenads.jpg]]
+> "*Maenads" eftir John Collier, 1886.*
 ### Djöflasamingur Hollywood 
 Í kvikmyndinni *Jennifer’s Body* er Jennifer Check klappstýra, hlutverk (sem í grunninn snýst nær eingöngu um að vera til sýnis)[^2] í menntaskóla sem breytist í sukkúbus[^1] og leggst á veiðir karla eftir að indí-rokkhljómsveit fórnar henni fyrir djöflinum í misheppnaðri tilraun til að öðlast frægðar. Myndin tjáir sig á táknrænan hátt um hlutgervingu og á vissan hátt kynferðislega misnotkun kvenna, sem endurómar sterklega* reynslu Fox í Hollywood, þar sem hún var oft notuð sem skrautmunur í stórmyndum.
 
