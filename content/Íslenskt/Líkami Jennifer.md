@@ -5,7 +5,7 @@ tags:
   - skrif
   - WIP
 ---
-![[lillith.png]]
+![[lillith2.png]]
  *[Lillith](https://gallerythane.com/cdn/shop/files/lilith_remastered-l3_16x8_wm.jpg) eftir John Collier, 1889.*
 ### Inngangur: Hell is a teenage girl
 
