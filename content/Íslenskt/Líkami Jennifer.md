@@ -15,6 +15,8 @@ Við fyrstu mínútur myndarinnar tók ég strax eftir ákveðnum atriðum. Hún
 
 Frægð Megan Fox einkenndist af kynþokka hennar og líkamlegu aðdráttarafli hennar. Hún var oft minnkuð* niður í kyntákn, leikhæfileikar hennar og persónulegar skoðanir vísað á bug í þágu útlits hennar og í raun speglar saga Jennifer Check örlög Megan Fox sjálfrar. Titill myndarinnar er bókstafleg vísun í hvernig líkami hennar Jennifer er bæði dýrkaður og hataður vegna fegurðar hans.
 
+---
+
 ### Djöflasamingur Hollywood 
 Í kvikmyndinni *Jennifer’s Body* er Jennifer Check klappstýra, hlutverk (sem í grunninn snýst nær eingöngu um að vera til sýnis)[^2] í menntaskóla sem breytist í sukkúbus[^1] og leggst á veiðir karla eftir að indí-rokkhljómsveit fórnar henni fyrir djöflinum í misheppnaðri tilraun til að öðlast frægðar. Myndin tjáir sig á táknrænan hátt um hlutgervingu og á vissan hátt kynferðislega misnotkun kvenna, sem endurómar sterklega* reynslu Fox í Hollywood, þar sem hún var oft notuð sem skrautmunur í stórmyndum.
 
