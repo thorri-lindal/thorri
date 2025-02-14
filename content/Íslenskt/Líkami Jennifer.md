@@ -14,14 +14,12 @@ tags:
 
 Ég verð að játa að ég var ansi hissa – ég man ekki eftir því að þessi mynd hafi verið svona litrík í skrifum. Það er ljóst að ég hafði skautað yfir hana án þess að gefa henni þann tíma og athygli sem hún átti skilið. #stytta
 
-Megan Fox hefur alla tíð verið þekkt fyrir kynþokka sinn, nánast eingöngu fyrir hann og þegar ég byrjaði að skrifa þessa grein ætla ég að játa að ég vissi ekki neitt um hana. #eyða
-
 Frægð Megan Fox einkenndist af kynþokka hennar og líkamlegu aðdráttarafli hennar. Hún var oft minnkuð* niður í kyntákn, leikhæfileikar hennar og persónulegar skoðanir vísað á bug í þágu útlits hennar svipað og í raun speglar saga Jennifer Check örlög Megan Fox sjálfrar. Titill myndarinnar er bókstafleg vísun í hvernig líkami hennar Jennifer er bæði dýrkaður og hataður vegna fegurðar hans – rétt eins og Fox upplifði í raunveruleikanum. Þetta gerir *Jennifer’s Body* að bæði háðsádeilu á hlutgervingu kvenna og persónulegri frásögn af ferli Fox í Hollywood.
 
 ### Djöflasamingur Hollywood 
 Í kvikmyndinni *Jennifer’s Body* er Jennifer Check klappstýra, hlutverk (sem í grunninn snýst nær eingöngu um að vera til sýnis)[^2] í menntaskóla sem breytist í sukkúbus[^1] og leggst á veiðir karla eftir að indí-rokkhljómsveit fórnar henni fyrir djöflinum í misheppnaðri tilraun til að öðlast frægðar. Myndin tjáir sig á táknrænan hátt um hlutgervingu og á vissan hátt kynferðislega misnotkun kvenna, sem endurómar sterklega* reynslu Fox í Hollywood, þar sem hún var oft notuð sem skrautmunur í stórmyndum.
 
-Þetta tengist kynferðislegri misnotkun kvenna í Hollywood á táknrænan hátt sérstaklega í ljósi upplifana/frásagna kvenna sem við höfum heyrt, sérstaklega í kjölfar #MeToo-bylgjunnar, þar sást skýrt að oftar en ekki var ætlast til þess að konur fórnuðu kynferðislegu frelsi sínu til þess að öðlast frægðar. #expand 
+Þetta tengist kynferðislegri misnotkun kvenna í Hollywood á táknrænan hátt sérstaklega í ljósi upplifana/frásagna kvenna sem við höfum heyrt, sérstaklega í kjölfar MeToo-bylgjunnar, þar sást skýrt að oftar en ekki var ætlast til þess að konur fórnuðu kynferðislegu frelsi sínu til þess að öðlast frægðar.
 
 Þrátt fyrir blendnar viðtökur myndarinnar í upphafi og slappa frammistöðu hennar í miðasölu hefur hún öðlast 'cult status' / költ-mynd. Áhorfendur hafa gefið 'Jennifer's Body' endurskoðun með ferskum augum og loksins viðurkennt myndina sem skarpa ádeilu um eitruð áhrif 'the male gaze' og misnotkun kvenna (exploitation) í fjölmiðlum (media).
 
