@@ -5,14 +5,13 @@ tags:
   - skrif
   - WIP
 ---
-
 ### Inngangur: Hell is a teenage girl
 
 'Jennifer's Body', hryllings-grínmynd frá 2009 leikstýrð af Karyn Kusama og skrifuð af Diablo Cody. Þegar kvikmyndin kom út var hún annaðhvort talin heiladautt „cashgrab“ sem nýtti sér kynþokka Megan Fox til að selja sig (sem er umfjöllunarefni þessarar greinar) eða einfaldlega ágætis grínmynd. Ég hugsaði ekki mikið um hana þegar hún kom út og fannst hún einfaldlega „campy“ hryllingsmynd – en mjög góð engu að síður. Myndin er í dag álitin af mér og líklega fleirum sem hálfgerð sjálfsævisaga Megan Fox og ferils hennar í Hollywood. Myndin kafar djúpt ofan í hlutgervingu, kvenfyrirlitningu, og væntingar samfélagsins (frá konum) ogð miklu leyti virkar myndin sem spegill á upplifun Fox af því að lifa í sviðsljósinu.
 
 Í fyrstu mínútum myndarinnar tók ég strax eftir ákveðnum atriðum. Hún opnar á líkamsræktarmyndbandi frá áttunda áratugnum, þar sem karlkyns kennari sýnir hvernig æfa á rassvöðvana. Síðan fylgja tvær fyrstu línur myndarinnar sem hafa setið í mér síðan: **"Hell is a teenage girl."** og **"I'm not perfect, but I have my fans."**
 
-Ég verð að játa að ég var ansi hissa – ég man ekki eftir því að þessi mynd hafi verið svona litrík í skrifum. Það er ljóst að ég hafði skautað yfir hana án þess að gefa henni þann tíma og athygli sem hún átti skilið. #stytta
+Ég verð að játa að ég var ansi hissa – ég man ekki eftir því að þessi mynd hafi verið svona litrík í skrifum. Það er ljóst að ég hafði skautað yfir hana án þess að gefa henni þann tíma og athygli sem hún átti skilið.
 
 Frægð Megan Fox einkenndist af kynþokka hennar og líkamlegu aðdráttarafli hennar. Hún var oft minnkuð* niður í kyntákn, leikhæfileikar hennar og persónulegar skoðanir vísað á bug í þágu útlits hennar svipað og í raun speglar saga Jennifer Check örlög Megan Fox sjálfrar. Titill myndarinnar er bókstafleg vísun í hvernig líkami hennar Jennifer er bæði dýrkaður og hataður vegna fegurðar hans – rétt eins og Fox upplifði í raunveruleikanum. Þetta gerir *Jennifer’s Body* að bæði háðsádeilu á hlutgervingu kvenna og persónulegri frásögn af ferli Fox í Hollywood.
 
