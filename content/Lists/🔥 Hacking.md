@@ -1459,140 +1459,418 @@ Privacy-focused, secure, and alternative DNS services to protect against trackin
 ---
 
 ## 🖥️Hardware
-### Computers
+### **Computers**  
+Privacy-focused, open-source, and security-hardened computers, motherboards, and DIY computing platforms.
 
-- [Libre-SOC](https://libre-soc.org)
-- [OLIMEX](https://www.olimex.com)
-- [System 76](https://system76.com)
-- [Sipeed](https://www.sipeed.com)
-- [Lagrange Project](http://проектлагранж.рф)
-- [Edelweiss](https://edelweiss-tech.ru)
-- [Puri.sm](https://puri.sm)
-- [Talos II](https://www.raptorcs.com/TALOSII/)
-- [Novena](https://kosagi.com/w/index.php?title=Novena_Main_Page)
-- [MNT Research](https://mntre.com)
-- [Framework laptop](https://frame.work)
-- [Shakti](https://shakti.org.in)
-- [GPD Pocket](http://www.gpd.hk)
-- [PowerPC Notebook](https://www.powerpc-notebook.org)
-- [Arduino](https://www.arduino.cc)
-- [SiFive HiFive](https://www.sifive.com/products/freedom/)
-- [Raspberry Pi](https://www.raspberrypi.org)
-- [lowRISC](https://www.lowrisc.org)
-- [Loongson CPU](https://www.loongson.cn/EN)
-- [Elbrus CPU](http://www.mcst.ru/chips?f%5B0%5D=field_availability%3A33)
-- [Gigatron](https://gigatron.io)
+#### **Privacy & Security-Focused Computers**
+- **[Purism Librem](https://puri.sm/)** – Linux-based laptops designed for security, privacy, and hardware kill switches.  
+- **[System76](https://system76.com/)** – Open hardware Linux computers with Coreboot firmware support.  
+- **[Framework Laptop](https://frame.work/)** – Modular, repairable laptop with open-source firmware options.  
+- **[MNT Reform](https://mntre.com/)** – Fully open-source and repairable Linux laptop with RISC-V and ARM support.  
+- **[Raptor Computing Systems Talos II](https://www.raptorcs.com/TALOSII/)** – POWER9-based workstation with open firmware and no binary blobs.  
+- **[NitroPad](https://www.nitrokey.com/shop/product/nitropad-t430-6)** – Security-hardened laptop with Coreboot, Heads firmware, and a tamper-evident boot process.  
+- **[Novena](https://kosagi.com/w/index.php?title=Novena_Main_Page)** – Open-source laptop designed for hardware hacking and research.  
+- **[Edelweiss](https://edelweiss-tech.ru/)** – Privacy-oriented, open-source computing hardware.  
+- **[Blackbird Secure Workstation](https://www.raptorcs.com/)** – Secure, open-hardware workstation using POWER9 architecture.  
 
-### RISC-V
-- [RISC-V SoCs and SBCs](http://sizeof.cat/post/risc-v-boards/)
-- [RISC-V](https://riscv.org/risc-v-cores/)
-- [Nuclei RISC-V](https://www.nucleisys.com/product.php)
-- [Bouffalo Lab](https://en.bouffalolab.com)
-- [Expressif](https://www.espressif.com)
-- [GigaDevice](https://www.gd32mcu.com/en)
-- [SOPHGO](https://en.sophgo.com)
-- [Nanjing Zhongke Micro](https://www.njzkwiot.com)
-- [WCH](https://wch-ic.com)
-- [MounRiver Studio IDE](http://www.mounriver.com)
-- [Bluetrum](https://www.bluetrum.com)
-- [Canaan](https://www.canaan.io)
-- [China Mobile Xinsheng Technology](https://www.xinshengcmiot.cn)
-- [Huawei HiSilicon](https://www.hisilicon.com/en)
-- [Spike RISC-V simulator](https://github.com/riscv-software-src/riscv-isa-sim)
-- [Dromajo - Esperanto Technology's RISC-V Reference Model](https://github.com/chipsalliance/dromajo)
-- [lowRISC](https://lowrisc.org)
+#### **Single-Board Computers (SBCs)**
+- **[Raspberry Pi](https://www.raspberrypi.org/)** – Affordable, ARM-based single-board computer for DIY projects.  
+- **[BeagleBone Black](https://beagleboard.org/black)** – Open-source hardware SBC for embedded and industrial applications.  
+- **[Pine64](https://www.pine64.org/)** – Open-source ARM-based SBCs for Linux and Android development.  
+- **[Libre Computer](https://libre.computer/)** – SBCs with open-source software and hardware support.  
+- **[RockPro64](https://www.pine64.org/rockpro64/)** – High-performance ARM SBC for open-source computing.  
+- **[Odroid](https://www.hardkernel.com/)** – Linux-based SBCs with high-performance ARM and x86 CPUs.  
+- **[Orange Pi](http://www.orangepi.org/)** – Affordable SBCs with various configurations for Linux and Android.  
+
+#### **RISC-V & Open-Source Computing**
+- **[SiFive HiFive](https://www.sifive.com/boards/)** – RISC-V-based development boards for open-source computing.  
+- **[lowRISC](https://www.lowrisc.org/)** – Open-source RISC-V architecture for secure computing.  
+- **[Milk-V](https://milkv.io/)** – High-performance RISC-V computing platforms.  
+- **[LicheePi](https://licheepi.cn/)** – Compact, low-power RISC-V development boards.  
+- **[BeagleV](https://www.beagleboard.org/beaglev/)** – RISC-V-based SBC designed for open-source software.  
+- **[RISC-V Unmatched](https://www.sifive.com/boards/hifive-unmatched)** – High-performance RISC-V development board.  
+
+#### **DIY & Retro Computing**
+- **[Arduino](https://www.arduino.cc/)** – Open-source electronics platform for prototyping and DIY projects.  
+- **[ESP32](https://www.espressif.com/en/products/socs/esp32/)** – Low-power microcontroller with WiFi and Bluetooth support.  
+- **[Gigatron](https://gigatron.io/)** – 8-bit TTL microcomputer built from discrete logic components.  
+- **[Commander X16](https://www.commanderx16.com/)** – Modern 8-bit home computer inspired by the Commodore 64.  
+- **[RC2014](https://rc2014.co.uk/)** – DIY Z80-based retro computing platform.  
+
+#### **Open-Source & Secure Motherboards**
+- **[Libre-SOC](https://libre-soc.org/)** – Open-source, privacy-focused processor and motherboard project.  
+- **[OpenPOWER](https://openpowerfoundation.org/)** – Open-source POWER architecture motherboards and CPUs.  
+- **[Coreboot-Compatible Motherboards](https://coreboot.org/status/board-status.html)** – List of motherboards supporting Coreboot firmware for improved security and transparency.  
+- **[MNT Reform Mainboard](https://shop.mntre.com/products/mnt-reform-2-mainboard)** – Open-source ARM motherboard for DIY computing.  
+- **[Loongson](https://www.loongson.cn/EN)** – Chinese-designed open-source CPU and motherboard architecture.  
+
+#### **Secure CPU Architectures**
+- **[POWER9](https://www.raptorcs.com/content/BK1B02/intro.html)** – Open-source CPU architecture used in high-security workstations.  
+- **[Loongson](https://www.loongson.cn/EN/)** – China-developed CPU with open-source support.  
+- **[Elbrus CPU](http://www.mcst.ru/chips?f%5B0%5D=field_availability%3A33)** – Russian-developed secure computing processor.  
+- **[Tachyum Prodigy](https://www.tachyum.com/)** – High-performance, open-source processor for secure computing.
+---
+### **RISC-V Hardware & Development**  
+Open-source, privacy-focused, and alternative RISC-V computing platforms.
+
+#### **RISC-V Single-Board Computers (SBCs)**
+- **[SiFive HiFive Unmatched](https://www.sifive.com/boards/hifive-unmatched)** – High-performance RISC-V SBC designed for developers.  
+- **[SiFive HiFive1](https://www.sifive.com/boards/hifive1-rev-b)** – Entry-level RISC-V development board for embedded applications.  
+- **[Milk-V Pioneer](https://milkv.io/pioneer)** – High-performance RISC-V motherboard with PCIe and NVMe support.  
+- **[Lichee RV](https://licheepi.cn/)** – Compact RISC-V-based development board for IoT and embedded systems.  
+- **[BeagleV](https://www.beagleboard.org/beaglev/)** – Open-source RISC-V SBC aimed at Linux development.  
+- **[Pine64 Star64](https://www.pine64.org/star64/)** – RISC-V-based alternative to Raspberry Pi with open-source firmware support.  
+- **[Sipeed LicheeRV](https://wiki.sipeed.com/hardware/en/lichee/licheerv/)** – Tiny RISC-V development board with an open-source toolchain.  
+
+#### **RISC-V Laptops & Workstations**
+- **[SpacemiT Laptop](https://spacemit.com/)** – RISC-V-based laptop with open-source firmware.  
+- **[Milk-V Mars](https://milkv.io/mars)** – Open-source RISC-V-powered computing platform for desktop use.  
+- **[Alibaba Xuantie](https://riscv.org/member/alibaba-cloud/)** – RISC-V development platform by Alibaba for cloud and AI applications.  
+
+#### **RISC-V Processors & Development Platforms**
+- **[SiFive U74 Core](https://www.sifive.com/cores/u74)** – High-performance RISC-V CPU core for embedded and desktop use.  
+- **[Allwinner D1](https://www.allwinnertech.com/index.php?c=product&a=index&id=90)** – First mass-produced RISC-V SoC for SBCs.  
+- **[SOPHGO SG2000](https://en.sophgo.com/)** – High-performance AI-capable RISC-V processor.  
+- **[WCH CH32V307](https://wch-ic.com/products/CH32V307.html)** – Low-power RISC-V microcontroller for embedded applications.  
+
+#### **RISC-V Software & Operating Systems**
+- **[Fedora RISC-V](https://fedoraproject.org/wiki/Architectures/RISC-V)** – Fedora Linux distribution ported to RISC-V architecture.  
+- **[Debian RISC-V](https://wiki.debian.org/RISC-V)** – Official Debian support for RISC-V hardware.  
+- **[OpenSBI](https://github.com/riscv/opensbi)** – Open-source RISC-V Supervisor Binary Interface.  
+- **[QEMU RISC-V](https://www.qemu.org/2021/01/19/risc-v-full-system-emulation/)** – Full-system emulation for RISC-V architecture.  
+
+#### **RISC-V Simulation & Development Tools**
+- **[Spike RISC-V Simulator](https://github.com/riscv-software-src/riscv-isa-sim)** – Official RISC-V ISA simulator.  
+- **[Dromajo](https://github.com/chipsalliance/dromajo)** – RISC-V reference model for software validation.  
+- **[RISC-V GNU Compiler Toolchain](https://github.com/riscv-collab/riscv-gnu-toolchain)** – GCC-based toolchain for compiling RISC-V applications.  
+- **[RISC-V LLVM](https://github.com/llvm/llvm-project/tree/main/llvm/lib/Target/RISCV)** – LLVM backend for RISC-V compiler development.  
+
+#### **RISC-V Networking & IoT**
+- **[Bouffalo Lab BL602](https://www.bouffalolab.com/bl602)** – Low-power RISC-V SoC for WiFi and Bluetooth applications.  
+- **[Espressif ESP32-C3](https://www.espressif.com/en/products/socs/esp32-c3)** – RISC-V-based IoT microcontroller with WiFi support.  
+- **[GigaDevice GD32VF103](https://www.gd32mcu.com/en/product/GD32VF103)** – RISC-V-based microcontroller for embedded applications.  
+
+#### **RISC-V Organizations & Communities**
+- **[RISC-V International](https://riscv.org/)** – Global organization promoting open RISC-V standards.  
+- **[LowRISC](https://www.lowrisc.org/)** – Open-source RISC-V-based system-on-chip (SoC) developer.  
+- **[RVspace](https://rvspace.org/)** – RISC-V development community and resource hub.  
+- **[Chisel (RISC-V HDL)](https://www.chisel-lang.org/)** – Hardware design language for building RISC-V processors.  
+---
 
 ### 📱 Mobile Devices & Operating Systems
 
-#### General
-- [Linux phones in 2022](https://sizeof.cat/post/linux-phones-in-2022/)
-- [Fairphone](https://www.fairphone.com)
-- [Purism Librem 5](https://puri.sm/products/librem-5/)
-- [PinePhone](https://www.pine64.org/pinephone/)
-- [Jolla](https://jolla.com)
-- [F(x)tec Pro¹ X](https://www.fxtec.com/pro1x)
-- [Cosmo Communicator](https://store.planetcom.co.uk/products/cosmo-communicator)
-- [Neo900](https://neo900.org)
+#### **Privacy & Security-Focused Smartphones**
+- **[Purism Librem 5](https://puri.sm/products/librem-5/)** – Linux-based privacy-first smartphone with hardware kill switches.  
+- **[PinePhone](https://www.pine64.org/pinephone/)** – Open-source Linux smartphone designed for mobile privacy.  
+- **[Fairphone](https://www.fairphone.com/)** – Modular, repairable smartphone with ethical supply chain practices.  
+- **[Murena One](https://murena.com/smartphones/)** – De-Googled smartphone running /e/OS for privacy protection.  
+- **[GrapheneOS Pixel](https://grapheneos.org/)** – Hardened Android security-focused OS for Google Pixel devices.  
+- **[CalyxOS](https://calyxos.org/)** – Privacy-focused Android-based OS with built-in Tor and microG support.  
+- **[BoringPhone](https://boringphone.com/)** – Minimalist, distraction-free phone designed for privacy.  
+- **[F(x)tec Pro1 X](https://www.fxtec.com/pro1x/)** – Linux-compatible smartphone with a physical keyboard.  
 
-#### Software
-- [AsteroidOS](https://asteroidos.org)
-- [PostmarketOS](https://postmarketos.org)
-- [Tizen](https://www.tizen.org)
-- [KaiOS](https://www.kaiostech.com)
-- [Sailfish OS](https://sailfishos.org)
-- [Ubuntu Touch](https://ubports.com)
-- [LineageOS](https://lineageos.org)
-- [microG](https://microg.org)
-- [/e/](https://e.foundation)
-- [F-Droid](https://f-droid.org)
-- [Apple's iOS, iPadOS, watchOS, tvOS, and audioOS firmware](https://ipsw.me)
-- [Cydia](https://cydia.saurik.com)
-- [Sileo](https://getsileo.app)
-- [CopperheadOS](https://copperhead.co)
-- [CalyxOS](https://calyxos.org)
+#### **Linux-Based Mobile Operating Systems**
+- **[postmarketOS](https://postmarketos.org/)** – Alpine Linux-based mobile OS focused on long-term support.  
+- **[Ubuntu Touch](https://ubports.com/)** – Linux-based mobile OS maintained by UBports Foundation.  
+- **[Sailfish OS](https://sailfishos.org/)** – Linux-based alternative mobile OS with a focus on security and usability.  
+- **[Tizen](https://www.tizen.org/)** – Linux-based mobile OS developed by Samsung for smart devices.  
+- **[LuneOS](https://pivotce.com/luneos/)** – Open-source successor to webOS for mobile devices.  
 
-### 🤝Firmware
+#### **De-Googled Android & Custom ROMs**
+- **[LineageOS](https://lineageos.org/)** – Open-source Android-based operating system with no Google services.  
+- **[/e/OS](https://e.foundation/)** – De-Googled Android ROM focused on privacy and data security.  
+- **[DivestOS](https://divestos.org/)** – Hardened, privacy-focused fork of LineageOS with security patches.  
+- **[ProtonAOSP](https://github.com/ProtonAOSP)** – AOSP-based ROM with privacy and security enhancements.  
+- **[CopperheadOS](https://copperhead.co/)** – Secure Android OS with hardened kernel and cryptography.  
+- **[CalyxOS](https://calyxos.org/)** – Privacy-enhanced Android-based OS with encrypted backups.  
+- **[Replicant](https://www.replicant.us/)** – Fully free and open-source Android fork with a focus on user freedom.  
 
-- <https://coreboot.org>
-- <https://libreboot.org>
+#### **Feature Phones & Alternative Mobile Devices**
+- **[Light Phone](https://www.thelightphone.com/)** – Minimalist phone designed for essential communication only.  
+- **[Mudita Pure](https://mudita.com/products/mudita-pure/)** – E-Ink feature phone with an emphasis on digital wellbeing.  
+- **[Punkt MP02](https://www.punkt.ch/en/products/mp02-4g-mobile-phone/)** – Secure, minimalist phone with encrypted messaging.  
+- **[Sunbeam F1](https://www.sunbeamwireless.com/)** – Feature phone designed for simple, distraction-free use.  
+- **[KaiOS Phones](https://www.kaiostech.com/)** – Lightweight mobile OS for feature phones supporting basic apps.  
+
+#### **Mobile Security & Privacy Tools**
+- **[NetGuard](https://github.com/M66B/NetGuard/)** – Firewall app for Android that blocks internet access per app.  
+- **[Blokada](https://blokada.org/)** – Open-source ad blocker for Android and iOS.  
+- **[RethinkDNS](https://rethinkdns.com/)** – Advanced firewall and DNS-based privacy protection for Android.  
+- **[Aurora Store](https://auroraoss.com/)** – Anonymous Google Play Store client for downloading apps without tracking.  
+- **[F-Droid](https://f-droid.org/)** – Open-source app store for Android focusing on privacy-friendly applications.  
+- **[Shelter](https://github.com/PeterCxy/Shelter)** – Android app that isolates apps into a work profile for sandboxing.  
+- **[Orbot](https://guardianproject.info/apps/orbot/)** – Tor proxy app for secure browsing and encrypted communication.  
+- **[Molly](https://molly.im/)** – Hardened Signal messenger client for privacy-conscious users.  
+
+#### **Mobile Pentesting & Forensics**
+- **[Magisk](https://github.com/topjohnwu/Magisk)** – Systemless root for Android with advanced security features.  
+- **[AndroGuard](https://github.com/androguard/androguard)** – Reverse engineering and malware analysis tool for Android apps.  
+- **[MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF)** – Security analysis tool for mobile applications.  
+- **[Drozer](https://github.com/FSecureLABS/drozer)** – Android security assessment framework.  
+- **[Frida](https://frida.re/)** – Dynamic instrumentation toolkit for reverse engineering and pentesting mobile apps.  
+- **[APKTool](https://github.com/iBotPeaches/Apktool)** – Tool for decompiling and recompiling Android APK files.  
+### **Mobile Devices & Operating Systems**  
+Privacy-focused, open-source, and alternative mobile devices and operating systems.
+
+#### **General**
+- **[Linux Phones in 2022](https://sizeof.cat/post/linux-phones-in-2022/)** – Overview of Linux-powered smartphones and their ecosystems.  
+- **[Fairphone](https://www.fairphone.com/)** – Ethically produced, repairable smartphone with modular components.  
+- **[Purism Librem 5](https://puri.sm/products/librem-5/)** – Linux-based, privacy-first smartphone with hardware kill switches.  
+- **[PinePhone](https://www.pine64.org/pinephone/)** – Open-source Linux smartphone designed for privacy and customizability.  
+- **[Jolla](https://jolla.com/)** – Developer of Sailfish OS, offering alternative mobile devices.  
+- **[F(x)tec Pro¹ X](https://www.fxtec.com/pro1x/)** – Linux-compatible smartphone with a physical keyboard.  
+- **[Cosmo Communicator](https://store.planetcom.co.uk/products/cosmo-communicator/)** – Productivity-focused Linux smartphone with a clamshell design.  
+- **[Neo900](https://neo900.org/)** – Security-focused, open-source smartphone project.  
+
+#### **Privacy & Security-Focused Smartphones**
+- **[Murena One](https://murena.com/smartphones/)** – De-Googled smartphone running /e/OS for privacy protection.  
+- **[GrapheneOS Pixel](https://grapheneos.org/)** – Hardened Android security-focused OS for Google Pixel devices.  
+- **[CalyxOS](https://calyxos.org/)** – Privacy-focused Android-based OS with built-in Tor and microG support.  
+- **[BoringPhone](https://boringphone.com/)** – Minimalist, distraction-free phone designed for privacy.  
+
+#### **Linux-Based Mobile Operating Systems**
+- **[postmarketOS](https://postmarketos.org/)** – Alpine Linux-based mobile OS focused on long-term support.  
+- **[Ubuntu Touch](https://ubports.com/)** – Linux-based mobile OS maintained by UBports Foundation.  
+- **[Sailfish OS](https://sailfishos.org/)** – Linux-based alternative mobile OS with a focus on security and usability.  
+- **[Tizen](https://www.tizen.org/)** – Linux-based mobile OS developed by Samsung for smart devices.  
+- **[LuneOS](https://pivotce.com/luneos/)** – Open-source successor to webOS for mobile devices.  
+
+#### **De-Googled Android & Custom ROMs**
+- **[LineageOS](https://lineageos.org/)** – Open-source Android-based operating system with no Google services.  
+- **[/e/OS](https://e.foundation/)** – De-Googled Android ROM focused on privacy and data security.  
+- **[DivestOS](https://divestos.org/)** – Hardened, privacy-focused fork of LineageOS with security patches.  
+- **[ProtonAOSP](https://github.com/ProtonAOSP/)** – AOSP-based ROM with privacy and security enhancements.  
+- **[CopperheadOS](https://copperhead.co/)** – Secure Android OS with hardened kernel and cryptography.  
+- **[CalyxOS](https://calyxos.org/)** – Privacy-enhanced Android-based OS with encrypted backups.  
+- **[Replicant](https://www.replicant.us/)** – Fully free and open-source Android fork with a focus on user freedom.  
+
+#### **Feature Phones & Alternative Mobile Devices**
+- **[Light Phone](https://www.thelightphone.com/)** – Minimalist phone designed for essential communication only.  
+- **[Mudita Pure](https://mudita.com/products/mudita-pure/)** – E-Ink feature phone with an emphasis on digital wellbeing.  
+- **[Punkt MP02](https://www.punkt.ch/en/products/mp02-4g-mobile-phone/)** – Secure, minimalist phone with encrypted messaging.  
+- **[Sunbeam F1](https://www.sunbeamwireless.com/)** – Feature phone designed for simple, distraction-free use.  
+- **[KaiOS Phones](https://www.kaiostech.com/)** – Lightweight mobile OS for feature phones supporting basic apps.  
+
+#### **Mobile Security & Privacy Tools**
+- **[NetGuard](https://github.com/M66B/NetGuard/)** – Firewall app for Android that blocks internet access per app.  
+- **[Blokada](https://blokada.org/)** – Open-source ad blocker for Android and iOS.  
+- **[RethinkDNS](https://rethinkdns.com/)** – Advanced firewall and DNS-based privacy protection for Android.  
+- **[Aurora Store](https://auroraoss.com/)** – Anonymous Google Play Store client for downloading apps without tracking.  
+- **[F-Droid](https://f-droid.org/)** – Open-source app store for Android focusing on privacy-friendly applications.  
+- **[Shelter](https://github.com/PeterCxy/Shelter)** – Android app that isolates apps into a work profile for sandboxing.  
+- **[Orbot](https://guardianproject.info/apps/orbot/)** – Tor proxy app for secure browsing and encrypted communication.  
+- **[Molly](https://molly.im/)** – Hardened Signal messenger client for privacy-conscious users.  
+---
+
+### **Mobile Devices & Operating Systems**  
+Privacy-focused, open-source, and alternative mobile devices and operating systems.
+
+#### **General**
+- **[Linux Phones in 2022](https://sizeof.cat/post/linux-phones-in-2022/)** – Overview of Linux-powered smartphones and their ecosystems.  
+- **[Fairphone](https://www.fairphone.com/)** – Ethically produced, repairable smartphone with modular components.  
+- **[Purism Librem 5](https://puri.sm/products/librem-5/)** – Linux-based, privacy-first smartphone with hardware kill switches.  
+- **[PinePhone](https://www.pine64.org/pinephone/)** – Open-source Linux smartphone designed for privacy and customizability.  
+- **[Jolla](https://jolla.com/)** – Developer of Sailfish OS, offering alternative mobile devices.  
+- **[F(x)tec Pro¹ X](https://www.fxtec.com/pro1x/)** – Linux-compatible smartphone with a physical keyboard.  
+- **[Cosmo Communicator](https://store.planetcom.co.uk/products/cosmo-communicator/)** – Productivity-focused Linux smartphone with a clamshell design.  
+- **[Neo900](https://neo900.org/)** – Security-focused, open-source smartphone project.  
+
+#### **Privacy & Security-Focused Smartphones**
+- **[Murena One](https://murena.com/smartphones/)** – De-Googled smartphone running /e/OS for privacy protection.  
+- **[GrapheneOS Pixel](https://grapheneos.org/)** – Hardened Android security-focused OS for Google Pixel devices.  
+- **[CalyxOS](https://calyxos.org/)** – Privacy-focused Android-based OS with built-in Tor and microG support.  
+- **[BoringPhone](https://boringphone.com/)** – Minimalist, distraction-free phone designed for privacy.  
+
+#### **Linux-Based Mobile Operating Systems**
+- **[postmarketOS](https://postmarketos.org/)** – Alpine Linux-based mobile OS focused on long-term support.  
+- **[Ubuntu Touch](https://ubports.com/)** – Linux-based mobile OS maintained by UBports Foundation.  
+- **[Sailfish OS](https://sailfishos.org/)** – Linux-based alternative mobile OS with a focus on security and usability.  
+- **[Tizen](https://www.tizen.org/)** – Linux-based mobile OS developed by Samsung for smart devices.  
+- **[LuneOS](https://pivotce.com/luneos/)** – Open-source successor to webOS for mobile devices.  
+
+#### **De-Googled Android & Custom ROMs**
+- **[LineageOS](https://lineageos.org/)** – Open-source Android-based operating system with no Google services.  
+- **[/e/OS](https://e.foundation/)** – De-Googled Android ROM focused on privacy and data security.  
+- **[DivestOS](https://divestos.org/)** – Hardened, privacy-focused fork of LineageOS with security patches.  
+- **[ProtonAOSP](https://github.com/ProtonAOSP/)** – AOSP-based ROM with privacy and security enhancements.  
+- **[CopperheadOS](https://copperhead.co/)** – Secure Android OS with hardened kernel and cryptography.  
+- **[CalyxOS](https://calyxos.org/)** – Privacy-enhanced Android-based OS with encrypted backups.  
+- **[Replicant](https://www.replicant.us/)** – Fully free and open-source Android fork with a focus on user freedom.  
+
+#### **Feature Phones & Alternative Mobile Devices**
+- **[Light Phone](https://www.thelightphone.com/)** – Minimalist phone designed for essential communication only.  
+- **[Mudita Pure](https://mudita.com/products/mudita-pure/)** – E-Ink feature phone with an emphasis on digital wellbeing.  
+- **[Punkt MP02](https://www.punkt.ch/en/products/mp02-4g-mobile-phone/)** – Secure, minimalist phone with encrypted messaging.  
+- **[Sunbeam F1](https://www.sunbeamwireless.com/)** – Feature phone designed for simple, distraction-free use.  
+- **[KaiOS Phones](https://www.kaiostech.com/)** – Lightweight mobile OS for feature phones supporting basic apps.  
+
+#### **Mobile Security & Privacy Tools**
+- **[NetGuard](https://github.com/M66B/NetGuard/)** – Firewall app for Android that blocks internet access per app.  
+- **[Blokada](https://blokada.org/)** – Open-source ad blocker for Android and iOS.  
+- **[RethinkDNS](https://rethinkdns.com/)** – Advanced firewall and DNS-based privacy protection for Android.  
+- **[Aurora Store](https://auroraoss.com/)** – Anonymous Google Play Store client for downloading apps without tracking.  
+- **[F-Droid](https://f-droid.org/)** – Open-source app store for Android focusing on privacy-friendly applications.  
+- **[Shelter](https://github.com/PeterCxy/Shelter)** – Android app that isolates apps into a work profile for sandboxing.  
+- **[Orbot](https://guardianproject.info/apps/orbot/)** – Tor proxy app for secure browsing and encrypted communication.  
+- **[Molly](https://molly.im/)** – Hardened Signal messenger client for privacy-conscious users.  
+
+#### **Mobile Pentesting & Forensics**
+- **[Magisk](https://github.com/topjohnwu/Magisk/)** – Systemless root for Android with advanced security features.  
+- **[AndroGuard](https://github.com/androguard/androguard/)** – Reverse engineering and malware analysis tool for Android apps.  
+- **[MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF/)** – Security analysis tool for mobile applications.  
+- **[Drozer](https://github.com/FSecureLABS/drozer/)** – Android security assessment framework.  
+- **[Frida](https://frida.re/)** – Dynamic instrumentation toolkit for reverse engineering and pentesting mobile apps.  
+- **[APKTool](https://github.com/iBotPeaches/Apktool/)** – Tool for decompiling and recompiling Android APK files.  
+
+---
+
+### **Firmware**  
+
+#### **Open-Source BIOS & Boot Firmware**
+- **[Coreboot](https://coreboot.org/)** – Open-source BIOS replacement focused on speed and security.  
+- **[Libreboot](https://libreboot.org/)** – Fully free and deblobbed version of Coreboot for privacy-conscious users.  
+- **[Heads](https://osresearch.net/)** – Security-focused firmware with tamper detection and remote attestation.  
+- **[SeaBIOS](https://www.seabios.org/)** – Open-source legacy BIOS implementation for x86 systems. 
+- **[U-Boot](https://www.denx.de/wiki/U-Boot)** – Open-source bootloader for embedded devices and SBCs.  
+
+#### **Custom & Hardened Firmware**
+- **[OpenWrt](https://openwrt.org/)** – Open-source router firmware with extensive customization options.  
+- **[DD-WRT](https://dd-wrt.com/)** – Linux-based firmware for routers with advanced networking features.  
+- **[pfSense](https://www.pfsense.org/)** – Open-source firewall and router software based on FreeBSD.  
+- **[OPNsense](https://opnsense.org/)** – Security-focused firewall and VPN appliance firmware.  
+- **[FreshTomato](https://www.freshtomato.org/)** – Open-source firmware for Broadcom-based routers.  
+
+#### **Security-Focused Firmware**
+- **[Qubes OS Anti Evil Maid (AEM)](https://www.qubes-os.org/doc/anti-evil-maid/)** – Boot tamper detection system for Qubes OS.  
+- **[Nerf](https://github.com/osresearch/nerf/)** – Open-source replacement for Intel ME firmware.  
+- **[Me_cleaner](https://github.com/corna/me_cleaner/)** – Tool for disabling Intel Management Engine (ME).  
+- **[1vyrain](https://1vyra.in/)** – BIOS unlocking and Coreboot installation for Lenovo ThinkPads.  
+- **[Dasharo](https://dasharo.com/)** – Open-source Coreboot-based firmware for secure workstations.  
+
+#### **Alternative Firmware for Embedded Devices**
+- **[ESPHome](https://esphome.io/)** – Open-source firmware for ESP8266/ESP32 smart home devices.  
+- **[Tasmota](https://tasmota.github.io/docs/)** – Open-source firmware alternative for IoT devices and smart home automation.  
+- **[Kea](https://www.isc.org/kea/)** – Open-source DHCP server for network infrastructure.  
+- **[LEDE](https://lede-project.org/)** – Linux-based firmware for routers, a fork of OpenWrt.  
+
+#### **BIOS & Boot Security Tools**
+- **[TianoCore EDK II](https://www.tianocore.org/edk2/)** – Open-source implementation of UEFI firmware.  
+- **[Chkboot](https://github.com/grazzolini/chkboot/)** – Tool for detecting changes in boot partitions to prevent rootkits.  
+- **[Flashrom](https://flashrom.org/)** – Open-source tool for reading, writing, and verifying BIOS/firmware.  
+- **[Mokutil](https://github.com/lcp/mokutil/)** – Utility for managing UEFI Secure Boot keys.  
+
 
 ## 🛠️Development
-### OS Development
-#### General
-- [Try It Online](https://tio.run)
-- [OSDev.org](https://wiki.osdev.org)
-- [Intel manuals](https://software.intel.com/en-us/articles/intel-sdm/)
-- [AMD manuals](https://developer.amd.com/resources/developer-guides-manuals/)
-- [ARM manuals](https://developer.arm.com/documentation)
-- [Mediatek manuals](https://www.mediatek.com/aiot/documents)
-- [RISC-V Instruction Set Manual](https://github.com/riscv/riscv-isa-manual/releases/download/draft-20230118-ee0096d/riscv-spec.pdf)
-- [RVspace](https://rvspace.org)
-- [RISC-v Bytes](https://danielmangum.com/categories/risc-v-bytes/)
-- [The PowerPC Compiler Writer's Guide](https://cr.yp.to/2005-590/powerpc-cwg.pdf)
-- [MIPS assembly](https://en.wikibooks.org/wiki/MIPS_Assembly)
-- [Motorola M68000 family Programmer's Reference Manual](https://www.nxp.com/files-static/archives/doc/ref_manual/M68000PRM.pdf)
-- [Qualcomm manuals](https://developer.qualcomm.com/software/digital-chassis/snapdragon-ride/tools)
-- [USB 2.0 specs](https://www.usb.org/document-library/usb-20-specification)
-- [The PCI ID Repository](https://pci-ids.ucw.cz)
-- [PCIlookup](https://www.pcilookup.com)
-- [Genode OS framework](https://genode.org)
-- [Project Oberon](http://www.projectoberon.com)
-- [ArchiveOS](https://archiveos.org)
-- [Guidebook GUI Gallery](https://guidebookgallery.org)
-- [Chips and Cheese](https://chipsandcheese.com)
-- [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html/)
-- [microkerneldude](https://microkerneldude.org)
-- [Bochs](https://bochs.sourceforge.io)
-- [Using the initial RAM disk (initrd)](https://docs.kernel.org/admin-guide/initrd.html)
-- [Linux initial RAM disk (initrd) overview](https://developer.ibm.com/articles/l-initrd/)
-- [Roll your own toy UNIX-clone OS](http://www.jamesmolloy.co.uk/tutorial_html/)
-- [Writing My Own Boot Loader](https://dev.to/frosnerd/writing-my-own-boot-loader-3mld)
-- [Writing My Own VGA Driver](https://dev.to/frosnerd/writing-my-own-vga-driver-22nn)
-- [Writing My Own Keyboard Driver](https://dev.to/frosnerd/writing-my-own-keyboard-driver-16kh)
-- [Writing My Own Shell](https://dev.to/frosnerd/writing-my-own-shell-1a7p)
-- [Writing My Own Dynamic Memory Management](https://dev.to/frosnerd/writing-my-own-dynamic-memory-management-361g)
-- [BeOS - The Ultimate Collection](https://archive.org/details/beos-the-ultimate-collection_2020-12-22)
-- [Solaris Service Management Facility: Modern System Startup and Administration](https://www.usenix.org/legacy/events/lisa05/tech/full_papers/adams/adams_html/index.html)
-- [Operating Systems: Timeline and Family Tree](https://eylenburg.github.io/os_familytree.htm)
+---
+### **OS Development**  
+Resources, tools, and documentation for developing operating systems from scratch.
+#### **General OS Development Resources**
+- **[Try It Online](https://tio.run/)** – Online compiler and execution environment for various programming languages.  
+- **[OSDev.org](https://wiki.osdev.org/)** – Comprehensive wiki for operating system development.  
+- **[James Molloy's OS Development Tutorials](http://www.jamesmolloy.co.uk/tutorial_html/)** – Step-by-step guide to writing an OS.  
+-  **[ArchiveOS](https://archiveos.org/)** – Collection of discontinued and obscure operating systems.  
+- **[Operating Systems: Timeline and Family Tree](https://eylenburg.github.io/os_familytree.htm/)** – Visual history of operating systems and their evolution.  
+- **[Intel Developer Manuals](https://software.intel.com/en-us/articles/intel-sdm/)** – Official Intel CPU architecture documentation.  
+- **[AMD Developer Guides](https://developer.amd.com/resources/developer-guides-manuals/)** – Technical documents for AMD processors.  
+- **[ARM Architecture Reference Manual](https://developer.arm.com/documentation/)** – Official documentation for ARM-based systems.  
+- **[RISC-V Instruction Set Manual](https://github.com/riscv/riscv-isa-manual/)** – Open documentation for RISC-V CPU architecture.  
 
-#### Hobby OS
-- [SymbOS](https://symbos.org)
-- [Phantom OS](http://phantomos.org)
-- [ReactOS](https://reactos.org)
-- [Collapse OS](http://collapseos.org)
-- [Sortix](https://sortix.org)
-- [Inferno](https://github.com/inferno-os/inferno-os)
-- [Plan9](http://p9f.org)
-- [Jehanne](http://jehanne.h--k.it)
-- [Haiku](https://www.haiku-os.org)
-- [SerenityOS](https://serenityos.org)
-- [HelenOS](http://www.helenos.org)
-- [MonaOS](https://www.monaos.org)
-- [Visopsys](https://visopsys.org)
-- [TempleOS](https://templeos.org)
-- [Hoshi](https://sizeof.cat/project/hoshi/)
-- [egos-2000](https://github.com/yhzhang0128/egos-2000)
+#### **Technical Documentation & Architecture Manuals**
+- **[Intel Manuals](https://software.intel.com/en-us/articles/intel-sdm/)** – Official Intel CPU architecture documentation.  
+- **[AMD Manuals](https://developer.amd.com/resources/developer-guides-manuals/)** – Technical documents for AMD processors.  
+- **[ARM Manuals](https://developer.arm.com/documentation/)** – Official documentation for ARM-based systems.  
+- **[Mediatek Manuals](https://www.mediatek.com/aiot/documents/)** – SoC documentation for MediaTek processors.  
+- **[RISC-V Instruction Set Manual](https://github.com/riscv/riscv-isa-manual/releases/download/draft-20230118-ee0096d/riscv-spec.pdf)** – Open documentation for RISC-V CPU architecture.  
+- **[RVspace](https://rvspace.org/)** – RISC-V development community and documentation.  
+- **[RISC-V Bytes](https://danielmangum.com/categories/risc-v-bytes/)** – Articles and guides on RISC-V architecture.  
+- **[The PowerPC Compiler Writer's Guide](https://cr.yp.to/2005-590/powerpc-cwg.pdf)** – Guide to compiler optimization for PowerPC architecture.  
+- **[MIPS Assembly](https://en.wikibooks.org/wiki/MIPS_Assembly/)** – Open guide to programming in MIPS assembly language.  
+- **[Motorola M68000 Family Programmer's Reference Manual](https://www.nxp.com/files-static/archives/doc/ref_manual/M68000PRM.pdf)** – Technical reference for Motorola 68k processors.  
+- **[Qualcomm Manuals](https://developer.qualcomm.com/software/digital-chassis/snapdragon-ride/tools/)** – Documentation on Qualcomm processors.  
+#### **Bootloaders & Initial System Setup**
+- **[GNU GRUB](https://www.gnu.org/software/grub/)** – Popular bootloader for Linux and other operating systems.  
+- **[Syslinux](https://www.syslinux.org/)** – Lightweight bootloader for BIOS and EFI systems.  
+- **[Limine](https://github.com/limine-bootloader/limine)** – Modern bootloader designed for OS development.  
+- **[Using the Initial RAM Disk (initrd)](https://docs.kernel.org/admin-guide/initrd.html)** – Overview of Linux initrd and boot process.  
+- **[Writing My Own Boot Loader](https://dev.to/frosnerd/writing-my-own-boot-loader-3mld/)** – Guide on building a custom bootloader.  
+- **[Using the Initial RAM Disk (initrd)](https://docs.kernel.org/admin-guide/initrd.html/)** – Overview of Linux initrd and boot process.  
+- **[Linux Initial RAM Disk (initrd) Overview](https://developer.ibm.com/articles/l-initrd/)** – IBM's guide on initrd and system booting.  
+#### **Kernel Development & Low-Level Programming**
+- **[Writing My Own VGA Driver](https://dev.to/frosnerd/writing-my-own-vga-driver-22nn/)** – Low-level graphics programming tutorial.  
+- **[Writing My Own Keyboard Driver](https://dev.to/frosnerd/writing-my-own-keyboard-driver-16kh/)** – Guide to implementing keyboard input in an OS.  
+- **[Writing My Own Shell](https://dev.to/frosnerd/writing-my-own-shell-1a7p/)** – Building a simple command-line shell.  
+- **[Writing My Own Dynamic Memory Management](https://dev.to/frosnerd/writing-my-own-dynamic-memory-management-361g/)** – Creating a memory management system.  
+#### **Filesystems & Device Drivers**
+- **[The PCI ID Repository](https://pci-ids.ucw.cz/)** – Database of PCI device IDs for driver development.  
+- **[PCI Lookup](https://www.pcilookup.com/)** – Tool to identify PCI hardware.  
+- **[USB 2.0 Specification](https://www.usb.org/document-library/usb-20-specification/)** – Official USB protocol documentation.  
+#### **Filesystem Development**
+- **[ext4 Filesystem Documentation](https://ext4.wiki.kernel.org/)** – Technical details of the ext4 filesystem.  
+- **[FAT Filesystem Specification](https://wiki.osdev.org/FAT)** – Implementation details of FAT16/FAT32 file systems.  
+- **[Implementing a Virtual File System](https://wiki.osdev.org/VFS)** – Guide to developing a custom virtual file system.  
+#### **OS Development Toolchains & Simulators**
+- **[QEMU](https://www.qemu.org/)** – Emulator and virtual machine for OS development testing.  
+- **[Bochs](https://bochs.sourceforge.io/)** – x86 PC emulator for debugging custom OS kernels.  
+- **[SeaBIOS](https://www.seabios.org/)** – Open-source BIOS implementation for booting OSes.  
+- **[GDB Remote Debugging](https://wiki.osdev.org/GDB)** – Debugging OS kernels with GNU Debugger.  
+- **[NASM](https://www.nasm.us/)** – Popular x86 assembler for low-level programming.  
+- **[GCC Cross Compiler](https://wiki.osdev.org/GCC_Cross-Compiler)** – Guide to setting up a GCC toolchain for OS development.  
+#### **OS Research & Experimental Systems**
+- **[Project Oberon](http://www.projectoberon.com/)** – Experimental OS and programming environment.  
+- **[Guidebook GUI Gallery](https://guidebookgallery.org/)** – Collection of graphical user interfaces from various operating systems.  
+- **[Chips and Cheese](https://chipsandcheese.com/)** – Technical analysis of CPUs and system architecture.  
+- **[microkerneldude](https://microkerneldude.org/)** – Research on microkernel-based operating systems.  
+- **[BeOS - The Ultimate Collection](https://archive.org/details/beos-the-ultimate-collection_2020-12-22/)** – Archive of BeOS, an influential alternative OS.  
+#### **Microkernels & Alternative OS Architectures**
+- **[Genode OS Framework](https://genode.org/)** – A modular microkernel-based OS framework.
+- **[HelenOS](http://www.helenos.org/)** – Research operating system based on a microkernel.  
+- **[L4 Microkernel](https://l4re.org/)** – Secure microkernel architecture used in embedded systems.  
+- **[Minix](https://www.minix3.org/)** – Microkernel-based OS that inspired Linux development.  
+#### **Kernel Development & Low-Level Programming**
+- **[Linux Kernel Documentation](https://www.kernel.org/doc/html/latest/)** – Official Linux kernel development guide.  
+- **[Writing a Simple Kernel](https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf)** – Guide to creating a basic OS kernel.  
+- **[OSDev x86 Paging](https://wiki.osdev.org/Paging)** – Overview of memory paging for x86 systems.  
+- **[Writing a VGA Driver](https://dev.to/frosnerd/writing-my-own-vga-driver-22nn)** – Low-level graphics programming tutorial.  
+- **[Writing a Keyboard Driver](https://dev.to/frosnerd/writing-my-own-keyboard-driver-16kh)** – Guide to implementing keyboard input in an OS.  
+#### **Simulation & Debugging**
+- **[Bochs](https://bochs.sourceforge.io/)** – x86 PC emulator for debugging custom OS kernels.  
+#### **Service Management & System Administration**
+- **[Solaris Service Management Facility: Modern System Startup and Administration](https://www.usenix.org/legacy/events/lisa05/tech/full_papers/adams/adams_html/index.html/)** – Study of Solaris OS service management.  
+#### **OS Development Tutorials**
+- **[Roll Your Own Toy UNIX-Clone OS](http://www.jamesmolloy.co.uk/tutorial_html/)** – Guide to developing a small operating system.  
+#### **Networking & Device Drivers**
+- **[Beej's Guide to Network Programming](https://beej.us/guide/bgnet/)** – Introduction to socket programming for networking.  
+- **[Linux Device Drivers](https://lwn.net/Kernel/LDD3/)** – In-depth guide to writing device drivers for Linux.  
+- **[USB 2.0 Specification](https://www.usb.org/document-library/usb-20-specification)** – Official USB protocol documentation.  
+- **[PCI ID Repository](https://pci-ids.ucw.cz/)** – Database of PCI device IDs for driver development.  
+#### **Legacy & Influential Hobby OS Projects**
+- **[BeOS - The Ultimate Collection](https://archive.org/details/beos-the-ultimate-collection_2020-12-22/)** – Archive of BeOS, a fast and multimedia-focused operating system.  
+- **[Plan 9](http://p9f.org/)** – Distributed operating system from Bell Labs, designed to replace Unix.  
+- **[Inferno](https://github.com/inferno-os/inferno-os/)** – Lightweight, distributed OS derived from Plan 9.  
 
+#### **Minimalist & Experimental Operating Systems**
+- **[Collapse OS](http://collapseos.org/)** – OS designed to run on minimal hardware in a post-apocalyptic world.  
+- **[Sortix](https://sortix.org/)** – Small, modern Unix-like OS built from scratch.  
+- **[TempleOS](https://templeos.org/)** – Lightweight operating system created by Terry A. Davis with unique design principles.  
+- **[HelenOS](http://www.helenos.org/)** – Research microkernel-based OS with a modular architecture.  
+- **[Jehanne](http://jehanne.h--k.it/)** – Plan 9-inspired experimental operating system.  
+- **[SerenityOS](https://serenityos.org/)** – Modern, Unix-like OS designed for fun and learning, with a handcrafted GUI.  
+- **[MonaOS](https://www.monaos.org/)** – Microkernel-based OS with a small and efficient design.  
+- **[Visopsys](https://visopsys.org/)** – Lightweight operating system with a custom GUI and disk partitioning tools.  
+#### **Unique Alternative Operating Systems**
+- **[Hoshi](https://sizeof.cat/project/hoshi/)** – Experimental OS with a focus on simplicity.  
+- **[SymbOS](https://symbos.org/)** – Graphical multitasking OS for Z80-based computers.  
+- **[Phantom OS](http://phantomos.org/)** – Persistent object-oriented OS with unconventional design.  
+#### **Security & Research-Oriented OS**
+- **[Tanenbaum’s MINIX](https://www.minix3.org/)** – Microkernel OS known for inspiring Linux development.  
+- **[Collapse OS](http://collapseos.org/)** – Designed for self-sufficiency and long-term survival computing.  
+#### **Retro & Emulation-Based OS Projects**
+- **[RC2014](https://rc2014.co.uk/)** – Z80-based retro computing OS.  
+- **[Gigatron](https://gigatron.io/)** – Minimalist TTL-based microcomputer with its own OS.  
+#### **Educational & DIY OS Projects**
+- **[Writing My Own Boot Loader](https://dev.to/frosnerd/writing-my-own-boot-loader-3mld/)** – Guide on creating a bootloader for a custom OS.  
+- **[Roll Your Own Toy UNIX-Clone OS](http://www.jamesmolloy.co.uk/tutorial_html/)** – Hands-on guide to developing a UNIX-like operating system.  
+---
 ### Game dev
 - [Marc ten Bosch](https://marctenbosch.com)
 - [Ars Phantasia](https://arsphantasia.wordpress.com/2014/02/20/hexcrawl-resources/)
