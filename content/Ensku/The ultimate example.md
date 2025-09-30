@@ -6,7 +6,18 @@ Faith is not about clinging to fixed doctrines, but about living in a way that c
 
 Love, compassion forgiveness, and commitment to justice is essential (are fundemental values). Jesus and his teachings represent the perfect model for human behavior, the embodiment of what it truly means to be a good person. His teachings serve as a guide to life, much like the wisdom found in the Hávamál. Following this example doesn’t require belief in Óðinn or a specific deity; it's about emulating his character, leading to a deeper understanding of the spirit he represents. In this way, we move away from an imposed, objective morality and toward a human-centered, subjective one which is often 'said' to be lesser than or incomplete.
 
-    "The Bible is the single most important influence in the imaginative tradition of Western literature. The Bible redeems history with a visionary, poetic perspective, which complements science in the understanding of human nature. It is encyclopedic in character, stretching from creation to the end of the world. It is violently partisan, abstract rather than objective or representational, with a multidimensional theme and variations rather than a linear exposition. The Bible can be read as literally as any fundamentalist could desire, but the real literal meaning is an imaginative and poetic one, brought forth through myth and metaphor. The Bible's deep influence on Western literature makes it one of the first literary classics, but my own reading of the Bible is expansive, open to resonances of contextual meaning. The book is a double mirror, revealing a unified structure of narrative and recurrent imagery that ultimately reflects itself: the old is transformed and given new meaning; and the story ends back where it all began. Given this, there is a rich interaction between biblical and secular knowledge. Indeed, there is an imaginative energy flowing from the Bible to creative minds for centuries. A student of English literature who does not know the Bible does not understand a good deal of what is going on in what he reads: the most conscientious student would be continually misconstruing the implications, even the meaning." - Zaine Ridling, Ph.D.
+> “The Bible is the single most important influence in the imaginative tradition of Western literature. The Bible redeems history with a visionary, poetic perspective, which complements science in the understanding of human nature.  
+>
+> It is encyclopedic in character, stretching from creation to the end of the world. It is violently partisan, abstract rather than objective or representational, with a multidimensional theme and variations rather than a linear exposition.  
+>
+> The Bible can be read as literally as any fundamentalist could desire, but the real literal meaning is an imaginative and poetic one, brought forth through myth and metaphor.  
+>
+> The Bible's deep influence on Western literature makes it one of the first literary classics, but my own reading of the Bible is expansive, open to resonances of contextual meaning. The book is a double mirror, revealing a unified structure of narrative and recurrent imagery that ultimately reflects itself: the old is transformed and given new meaning; and the story ends back where it all began.  
+>
+> Given this, there is a rich interaction between biblical and secular knowledge. Indeed, there is an imaginative energy flowing from the Bible to creative minds for centuries.  
+>
+> A student of English literature who does not know the Bible does not understand a good deal of what is going on in what he reads: the most conscientious student would be continually misconstruing the implications, even the meaning.”  
+> — *Zaine Ridling, Ph.D.*
 
 ## Existential Freedom and Responsibility
 
