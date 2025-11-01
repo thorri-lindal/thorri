@@ -1,5 +1,3 @@
-The Fire No One Can Put Out: Reality Collapses in the Age of Simulation
-
 There is a trash can on fire in the middle of a street. Tongues of flame swell upwards, plastic sags, melts and blackens, and a circle of pavement glows in orange and red in the evening light. It is not a symbolic moment. It is not a metaphor. It is simply a trash can burning, and there are people around who feel its heat, see its glow, and smell its sharp chemical smoke. This takes place in the real world—the world of matter and physics, the world you can burn your hand on if you try to stamp it out.
 
 This world does not last very long.
